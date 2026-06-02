@@ -1,0 +1,105 @@
+{
+  "title": "Kotak Mahindra Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "Kotak Mahindra Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "Kotak Mahindra Mutual Fund is managed by Kotak Mahindra Asset Management Company Limited.",
+    "support_contact": {
+      "email": "mutual@kotak.com",
+      "phone": "1800-309-1490"
+    },
+    "servicing_processes": {
+      "account_statement": "Download statements via Kotak MF Investor Portal or via WhatsApp Support by requesting statement delivery to registered email.",
+      "capital_gains_report": "Log into Kotak Mutual Fund portal under Quick Services, enter PAN, select Financial Year, and download Capital Gains Statement.",
+      "tax_savings_80c": "Investing in Kotak Tax Saver Scheme qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in."
+    },
+    "schemes": [
+      {
+        "name": "Kotak Flexicap Fund",
+        "type": "Flexi Cap",
+        "expense_ratio": {
+          "direct": "0.72%",
+          "regular": "1.58%"
+        },
+        "exit_load": "1.00% for redemptions above 10% within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Harsha Upadhyaya",
+            "experience": "CIO - Equity, over 22 years in mutual funds",
+            "credentials": "B.E, PGDM, CFA",
+            "tenure": "managing since August 2012"
+          }
+        ]
+      },
+      {
+        "name": "Kotak Emerging Equity Fund",
+        "type": "Mid Cap",
+        "expense_ratio": {
+          "direct": "0.81%",
+          "regular": "1.71%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Midcap 150 TRI",
+        "fund_managers": [
+          {
+            "name": "Pankaj Tibrewal",
+            "experience": "Over 18 years in mid-cap fund management",
+            "credentials": "B.Com, MBA",
+            "tenure": "managing since May 2010"
+          }
+        ]
+      },
+      {
+        "name": "Kotak Tax Saver Scheme",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "0.62%",
+          "regular": "1.85%"
+        },
+        "exit_load": "Nil",
+        "lock_in_period": "3 years mandatory lock-in",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Harsha Upadhyaya",
+            "experience": "CIO - Equity, over 22 years in mutual funds",
+            "credentials": "B.E, PGDM, CFA",
+            "tenure": "managing since August 2012"
+          }
+        ]
+      },
+      {
+        "name": "Kotak Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.48%",
+          "regular": "1.62%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "Pankaj Tibrewal",
+            "experience": "Over 18 years in mid-cap fund management",
+            "credentials": "B.Com, MBA",
+            "tenure": "managing since January 2010"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "Kotak Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nKotak Mahindra Asset Management Company Limited (KMAMC) is a public limited company registered under the Companies Act, 1956 on August 2, 1994. The company is the asset manager of Kotak Mahindra Mutual Fund (KMMF) and a wholly and a subsidiary of Kotak Mahindra Bank Limited (KMBL).\nbegan its operations back in December 1998. It was the first AMC to offer a dedicated gilt fund for investing solely in Government securities.\nIt provides mutual fund and portfolio management services under SEBI ('Mutual Funds') Regulations, 1996 and SEBI (Portfolio Manager) Regulations, 1993. KMAMC also offers pension fund management services through its subsidiary, the Kotak Mahindra Pension Fund Limited.\nCurrently, the company offers around 261 schemes catering to the variable risk appetite of investors. It primarily invests in AAA and AA rated companies and possesses a substantial value of assets under management (AuM). KMAMC also provides customers with the option to avail income tax benefits under Section 80C.\nKMAMC has 86 branches spread over 82 cities in India and has 25.9 lakh unique investors.\nList of Kotak Mutual Fund in India\nExit load for units in excess of 10% of the investment,1% will be charged for redemption within 365 days\nExit load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.\nKotak International REIT FOF Fund\nKotak Global Emerging Market Fund\nKotak Multi Asset Allocation Fund\nExit Load for units in excess of 30% of the investment,1% will be charged for redemption within 1 year.\nKotak Silver ETF FoF Direct-Growth\nExit load of 0.5%, if redeemed within 30 days.\nExit load of 0.25% if redeemed within 30 days\nExit load for units in excess of 10% of the investment,1% will be charged for redemption within 365 days\nExit load for units in excess of 10% of the investment,1% will be charged for redemption within 365 days\nKotak Global Innovation FoF Fund\nExit load for units in excess of 10% of the investment,1% will be charged for redemption within 365 days.\nKotak Gold Silver Passive FoF Direct-Growth\nExit load for units in excess of 8% of the investment,1% will be charged for redemption within 6 months.\nExit load of 1%, if redeemed within 15 days.\nKotak Midcap Fund Direct Growth\nKotak Multicap Fund Direct Growth\nKotak International REIT FOF Direct Growth\nKotak Global Emerging Market Fund Direct Growth\nKotak Multi Asset Allocation Fund Direct Growth\nKotak Silver ETF FoF Direct Growth\nKotak Arbitrage Fund Direct Growth\nKotak Large & Midcap Fund Direct Growth\nKotak Small Cap Fund Direct Growth\nKotak Global Innovation FoF Direct Growth\nKotak Flexicap Fund Direct Growth\nKotak Gold Silver Passive FoF Direct Growth\nKotak Nifty Next 50 Index Fund Direct Growth\nKotak Debt Hybrid Fund Direct Growth\nabout Kotak Mahindra Mutual Fund\nKotak Mahindra Trustee Company Ltd\nNilesh Shah(Chief Executive Officer)\nHarsha Upadhyaya(Chief Investment Officer-Equity), Deepak Agrawal(Chief Investment Officer-Debt)\nTotal AUM (as of end of last quarter)\nThe Capital Building,  Behind ICICI Bank, G Block BKC, Bandra Kurla ComplexBandra (E) Mumbai 400051\n— Paperless sign up on web & app\nHow to invest in Kotak Mutual Funds?\nMutual Fund investment not only provides a lot of benefits but can also help in reducing the risk by investing in diverse portfolios. If you are looking to invest in Kotak Bank Mutual funds, such an investment can be made online as well as offline. The Kotak mutual fund application via offline mode can be done by filling up an investment application form. If you prefer to do it online, the prerequisites of how can you invest in Kotak MF online is given below.\nThe applicant should be an existing Kotak Bank account holder\nThe applicant should be KYC Compliant\nThe status of the Savings Bank Account needs to be Single or Either/Survivor\nThe Account Opening Application Form needs to be signed by all the Bank Account Holders\nHowever, you can also invest in Kotak Mutual Funds online on Groww; the steps for which are given below:\nHow to Invest in Kotak MF on Groww\nis a hassle-free and convenient process that does not consume much of your time.\nFollow these steps to start investing:\nStep 1. Log-in to your Groww account (register if you don’t have an account).\nStep 2. Upload your identity proof documents like Aadhaar, PAN, Voter ID, Driving License, Passport, Central or State Government ID card, etc.\nStep 3. Upload your address proof documents like any identity proof documents with your permanent address, etc.\nStep 4. Determine the duration of your investment.\nStep 5. Determine the risk level – low, mid, or high.\nStep 7. Click on “Invest One Time” is you want to invest a lump sum amount or “Start SIP” if you want to invest via SIP.\nthat you have purchased will reflect in your Groww account within 3 to 4 working days.\nNow let us jump and check about these top\nKotak Midcap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 20.92% & 18.91%. The Kotak Midcap Fund comes under the Equity category of Kotak Mahindra Mutual Funds.\nLump sum minimum amount for Kotak Midcap Fund is ₹100 and for SIP, it is ₹100.\nKotak Multicap Fund Direct Growth\nThe Kotak Multicap Fund comes under the Equity category of Kotak Mahindra Mutual Funds.\nLump sum minimum amount for Kotak Multicap Fund is ₹100 and for SIP, it is ₹100.\nKotak International REIT FOF Direct Growth\nThe Kotak International REIT FOF Fund comes under the Equity category of Kotak Mahindra Mutual Funds.\nLump sum minimum amount for Kotak International REIT FOF Fund is ₹100 and for SIP, it is ₹100.\nKotak Global Emerging Market Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 12.88% & 8.21%. The Kotak Global Emerging Market Fund comes under the Equity category of Kotak Mahindra Mutual Funds.\nLump sum minimum amount for Kotak Global Emerging Market Fund is ₹100 and for SIP, it is ₹100.\nKotak Multi Asset Allocation Fund Direct Growth"
+}

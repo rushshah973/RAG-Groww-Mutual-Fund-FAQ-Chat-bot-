@@ -1,0 +1,105 @@
+{
+  "title": "Axis Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "Axis Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "Axis Mutual Fund is one of India's leading asset management companies, managed by Axis Asset Management Company Ltd.",
+    "support_contact": {
+      "email": "customerservice@axismf.com",
+      "phone": "1800-3000-8811"
+    },
+    "servicing_processes": {
+      "account_statement": "Request account statement via Axis MF portal by entering Folio / PAN and verifying via OTP.",
+      "capital_gains_report": "Download consolidated capital gains statement on Axis MF app or portal under 'Tax Services'.",
+      "tax_savings_80c": "Investing in Axis Long Term Equity Fund (ELSS) qualifies for income tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in."
+    },
+    "schemes": [
+      {
+        "name": "Axis Bluechip Fund",
+        "type": "Large Cap",
+        "expense_ratio": {
+          "direct": "0.85%",
+          "regular": "1.60%"
+        },
+        "exit_load": "1.00% for redemptions above 10% within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 50 TRI",
+        "fund_managers": [
+          {
+            "name": "Shreyash Devalkar",
+            "experience": "Over 18 years in financial markets",
+            "credentials": "B.Chem, MMS",
+            "tenure": "managing since November 2017"
+          }
+        ]
+      },
+      {
+        "name": "Axis Long Term Equity Fund",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "0.80%",
+          "regular": "1.65%"
+        },
+        "exit_load": "Nil",
+        "lock_in_period": "3 years mandatory lock-in",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Jinesh Gopani",
+            "experience": "Head of Equity, over 20 years in fund management",
+            "credentials": "B.Com, MMS",
+            "tenure": "managing since April 2011"
+          }
+        ]
+      },
+      {
+        "name": "Axis Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.53%",
+          "regular": "1.63%"
+        },
+        "exit_load": "1.00% for redemptions above 10% within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "Ashish Naik",
+            "experience": "Over 16 years of experience in financial markets",
+            "credentials": "B.E, MBA, CFA, FRM",
+            "tenure": "managing since July 2016"
+          }
+        ]
+      },
+      {
+        "name": "Axis Midcap Fund",
+        "type": "Mid Cap",
+        "expense_ratio": {
+          "direct": "0.52%",
+          "regular": "1.60%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Midcap 150 TRI",
+        "fund_managers": [
+          {
+            "name": "Shreyash Devalkar",
+            "experience": "Over 18 years in financial markets",
+            "credentials": "B.Chem, MMS",
+            "tenure": "managing since November 2017"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "Axis Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nAxis Asset Management Company Ltd., the formal name of\n, is the mutual fund investment wing of Axis Bank, one of the largest private banks in India. 74.99% share of the AMC is held by Axis Bank while the rest 24% is held by Schroder Singapore Holdings Private Limited.\nThe Axis MF AMC was incorporated back in October 2009 and has since abided by its three pillars:\nCommunicate with customers in their language to assist better in taking the right investment decision.\nII. Long-term wealth creation –\nEncourage investors to create a long-term investment strategy and play a critical role in their wealth management.\nBuild relationships beyond finances.\nIt has 31 investment teams operating across 19 nations in the Middle East, Europe, America, and Asia. The product lineup of Axis Mutual Fund includes over 53 different schemes. It is present in over 100 cities and has over 98 lakh active investor accounts.\nList of Axis Mutual Fund in India\nExit load of 0.25%, if redeemed within 7 days.\nExit load of 1% for investments beyond 10% if redeemed within 12 months\nExit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.\nExit load of 1%, if redeemed within 15 days.\nExit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months.\nExit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months.\nAxis Nifty India Defence Index Fund\nExit load of 0.25%, if redeemed within 15 days.\nExit Load for units in excess of 10% of the investment,1% will be charged for redemption within 365 days\nAxis Gold and Silver Passive FoF Direct-Growth\nExit load of 0.25%, if redeemed within 15 days.\nAxis Nifty Smallcap 50 Index Fund\nAxis Nifty Capital Markets Index Fund\nExit load of 0.25%, if redeemed within 15 Days.\nExit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months.\nAxis ELSS Tax Saver Direct Plan-Growth\nAxis Nifty500 Value 50 Index Fund\nExit load of 0.25%, if redeemed within 15 days.\nAxis Nifty Midcap 50 Index Fund\nExit load of 0.25% if redeemed within 7 days.\nAxis Small Cap Fund Direct Growth\nAxis Large Cap Fund Direct Growth\nAxis Nifty India Defence Index Fund Direct Growth\nAxis Multicap Fund Direct Growth\nAxis Gold and Silver Passive FoF Direct Growth\nAxis Nifty Smallcap 50 Index Fund Direct Growth\nAxis Nifty Capital Markets Index Fund Direct Growth\nAxis Large & Mid Cap Fund Direct Growth\nAxis ELSS Tax Saver Direct Plan Growth\nAxis Nifty500 Value 50 Index Fund DirectGrowth\nAxis Nifty Midcap 50 Index Fund Direct Growth\nGop Kumar Bhaskaran(Chief Executive Officer)\nR Sivakumar(Chief Investment Officer)\nTotal AUM (as of end of last quarter)\n23rd Floor, One Lodha Place,S. B. Road, Lower Parel. Mumbai 400013\n— Paperless sign up on web & app\nHow to invest in Axis Mutual Funds?\nMutual Fund investment not only provides a lot of benefits but can also help in reducing the risk by investing in diverse portfolios. If you are looking to invest in Axis Bank Mutual funds, such an investment can be made online as well as offline. The Axis mutual fund application via offline mode can be done by filling up an investment application form. If you prefer to do it online, the prerequisites of how can you invest in Axis MF online is given below.\nThe applicant should be KYC Compliant\nHowever, you can also invest in Axis Mutual Funds online on Groww; the steps for which are given below:\nHow to Invest in Axis MF on Groww\nby simply following the few steps mentioned below –\nStep 1. Register and create a new Groww account or log in if you already have one.\nStep 2. Upload your identity proof documents (Central or State Government ID card PAN, Aadhaar, Passport, Voter ID, Driving License, etc.)\nStep 3. Upload your address proof documents (any identity proof documents with your permanent address, etc.).\nStep 4. Choose the duration of your investment.\nStep 5. Select whether you want low, mid, or high-risk investment options.\nStep 7. Click on “Invest One Time” if you want to invest a lump sum amount or “Start SIP” if you want to invest via SIP.\nYour Groww account will reflect the\nyou have invested in within 3 to 4 working days.\nNow let us jump and check about these top\nThe Axis Silver FoF Direct-Growth comes under the Commodities category of Axis Mutual Funds.\nLump sum minimum amount for Axis Silver FoF Direct-Growth is ₹5,000 and for SIP, it is ₹100.\nAxis Small Cap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 16.74% & 17.94%. The Axis Small Cap Fund comes under the Equity category of Axis Mutual Funds.\nLump sum minimum amount for Axis Small Cap Fund is ₹100 and for SIP, it is ₹100.\nThe fund's annualized returns for the past 3 years & 5 years has been around 7.01% & 6.19%. The Axis Liquid Direct Fund comes under the Debt category of Axis Mutual Funds.\nLump sum minimum amount for Axis Liquid Direct Fund is ₹100 and for SIP, it is ₹100.\nThe fund's annualized returns for the past 3 years & 5 years has been around 35.17% & 24.29%. The Axis Gold Direct Plan-Growth comes under the Commodities category of Axis Mutual Funds.\nLump sum minimum amount for Axis Gold Direct Plan-Growth is ₹100 and for SIP, it is ₹100.\nThe fund's annualized returns for the past 3 years & 5 years has been around 18.32% & 15.91%. The Axis Midcap Direct Plan-Growth comes under the Equity category of Axis Mutual Funds.\nLump sum minimum amount for Axis Midcap Direct Plan-Growth is ₹100 and for SIP, it is ₹100.\nAxis Large Cap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 9.48% & 7.65%. The Axis Large Cap Fund comes under the Equity category of Axis Mutual Funds.\nLump sum minimum amount for Axis Large Cap Fund is ₹100 and for SIP, it is ₹100."
+}

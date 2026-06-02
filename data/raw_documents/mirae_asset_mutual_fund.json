@@ -1,0 +1,105 @@
+{
+  "title": "Mirae Asset Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "Mirae Asset Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "Mirae Asset Mutual Fund is managed by Mirae Asset Investment Managers (India) Private Limited.",
+    "support_contact": {
+      "email": "customercare@miraeasset.com",
+      "phone": "1800-2090-777"
+    },
+    "servicing_processes": {
+      "account_statement": "Instantly download via Mirae Asset Mutual Fund transaction portal or via email link requested using PAN.",
+      "capital_gains_report": "Request Capital Gains Statement via Mirae Asset Investor services portal by specifying folio and tax year.",
+      "tax_savings_80c": "Investing in Mirae Asset Tax Saver Fund qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in."
+    },
+    "schemes": [
+      {
+        "name": "Mirae Asset Large Cap Fund",
+        "type": "Large Cap",
+        "expense_ratio": {
+          "direct": "0.65%",
+          "regular": "1.48%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 1,000",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 100 TRI",
+        "fund_managers": [
+          {
+            "name": "Gaurav Misra",
+            "experience": "Over 23 years in investment research and management",
+            "credentials": "B.A, PGDM",
+            "tenure": "managing since January 2019"
+          }
+        ]
+      },
+      {
+        "name": "Mirae Asset Tax Saver Fund",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "0.60%",
+          "regular": "1.62%"
+        },
+        "exit_load": "Nil",
+        "lock_in_period": "3 years mandatory lock-in",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Neelesh Surana",
+            "experience": "Head of Equities, over 24 years experience",
+            "credentials": "B.E, PGDM",
+            "tenure": "managing since December 2015"
+          }
+        ]
+      },
+      {
+        "name": "Mirae Asset Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.45%",
+          "regular": "1.55%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "Neelesh Surana",
+            "experience": "Head of Equities, over 24 years experience",
+            "credentials": "B.E, PGDM",
+            "tenure": "managing since December 2015"
+          }
+        ]
+      },
+      {
+        "name": "Mirae Asset Midcap Fund",
+        "type": "Mid Cap",
+        "expense_ratio": {
+          "direct": "0.60%",
+          "regular": "1.65%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 1,000",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Midcap 150 TRI",
+        "fund_managers": [
+          {
+            "name": "Neelesh Surana",
+            "experience": "Head of Equities, over 24 years experience",
+            "credentials": "B.E, PGDM",
+            "tenure": "managing since July 2019"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "Mirae Asset Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nHeadquartered in Seoul, South Korea, Mirae Asset Financial Group is one of the key players in the Asian financial market. Its asset management wing, the Mirae Asset Global Investments, commenced operation in 1997 and has expanded its business globally in a relatively short span of time. Today,\nhas its presence in 14 countries spread across 5 continents. From the USA to Europe and India, Mirae Asset has been helping people invest prudently through their asset management company.\nOriginating in the backdrop of the Asian currency crisis, Mirae Asset began cautiously, concentrating more on the Korean market initially. Founded by the visionary Hyeon Joo Park, Mirae Asset became the first AMC to present mutual funds to retail investors back in 1998.\nAfter consolidating its presence in the South Korean market, Mirae Asset swiftly moved to capture the global market. The first straw was the establishment of their corporate office in Hong Kong in 2003. Today, Mirae Asset has a strong presence in India, Australia, Canada, Brazil, Indonesia, the USA, the UK and Vietnam, among others.\nIn its relatively short but decorated history,\nhas reached several landmarks, previously unheard of from Korean AMCs. In 2005, they launched the first overseas investment in South Korea, the Mirae Asset Retirement Pension Fund. Just two years later, they launched their business in India and the UK.\nThe following year, they expanded to the USA and Brazil while winning accolades for being the largest investor in the emerging Asian markets. They even penetrated the traditionally closed Chinese market as they became the first and only Korean company to set up a joint venture AMC in the country, namely Mirae Asset Huachen Fund Management.\nThe Indian wing of the AMC, Mirae Asset Global Investments (India) Pvt. Ltd. was launched in the November of 2007, becoming only their second overseas branch after Hong Kong. Note that Mirae Asset has been present in the Indian market since 2004 as a foreign institutional investor, but they commenced domestic business only in 2008.\nMirae Asset is considered one of the fastest growing AMCs in India. From a meagre 51,304 folios in 2013, they ballooned to over 11 Lakh in 2018, in a matter of just 5 years.\nList of Mirae Asset Mutual Fund in India\nMirae Asset ELSS Tax Saver Fund\nMirae Asset Large & Midcap Fund\nExit load of 1% if redeemed within 1 year\nExit Load for units in excess of 15% of the investment,1% will be charged for redemption within 365 days.\nExit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 years.\nMirae Asset BSE India Defence ETF FoF Direct-Growth\nExit load of 0.05%, if redeemed within 15 days.\nMirae Asset Nifty Metal ETF FoF Direct-Growth\nExit load of 0.05%, if redeemed within 15 days.\nExit load of 1% if redeemed within 1 year.\nExit load of 1% if redeemed within 1 year\nMirae Asset Gold Silver Passive FoF Direct-Growth\nExit load of 0.05%, if redeemed within 15 days.\nMirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF FoF Direct-Growth\nExit load of 0.05%, if redeemed within 15 Days.\nExit load of 1%, if redeemed within 365 days.\nExit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.\nMirae Asset Great Consumer Fund\nExit load of 1% if redeemed within 1 year\nExit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.\nMirae Asset Banking and Financial Services Fund\nExit load of 1% if redeemed within one year.\nMirae Asset ELSS Tax Saver Fund Direct Growth\nMirae Asset Large & Midcap Fund Direct Growth\nMirae Asset Small Cap Fund Direct Growth\nMirae Asset Midcap Fund Direct Growth\nMirae Asset BSE India Defence ETF FoF Direct Growth\nMirae Asset Nifty Metal ETF FoF Direct Growth\nMirae Asset Healthcare Fund Direct Growth\nMirae Asset Large Cap Fund Direct Growth\nMirae Asset Gold Silver Passive FoF Direct Growth\nMirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF FoF Direct Growth\nMirae Asset Multicap Fund Direct Growth\nMirae Asset Liquid Fund Direct Growth\nMirae Asset Great Consumer Fund Direct Growth\nMirae Asset Flexi Cap Fund Direct Growth\nMirae Asset Banking and Financial Services Fund Direct Growth\nMirae Asset Global Investments Co. Ltd.\nMirae Asset Trustee Company Private Ltd.\nNeelesh Surana(Chief Investment Officer-Equity)\nSwarup Anand Mohanty(Chief Executive Officer)\nTotal AUM (as of end of last quarter)\nUnit No.606 - 6th Floor,Windsor Building - Off. CST Road,Kalina, Santacruz (East), Mumbai 400098\n— Paperless sign up on web & app\nHow can you invest in Mirae Asset Mutual Funds?\nThe investment procedure at Mirae Asset Mutual Funds is entirely online. You can invest in one or more of their schemes at any time and place of your convenience. The online process also makes it completely transparent, a business principle Mirae Asset strictly adheres to.\nGiven below is the step-by-step process of investing in\nMirae Asset Mutual Funds online\n. Follow this simple procedure and invest according to your convenience.\nStep 1: Visit the Groww website and log in to your account. If you are a new user, you need to register first.\nStep 2: Upload your KYC documents to act as proof of identity. Any government issued identity card such as Voter ID, PAN, Aadhaar, Driving License, Passport, etc. shall suffice.\nStep 3: Upload documents supporting your proof of address. Along with the documents mentioned above (except PAN), you can also use your Ration card or utility bills (electric bill, water bill, house rent documents, etc.) for the purpose.\nStep 4: Choose a period you would be willing to invest for. It can be short term, mid-term or long term investment.\nStep 5: Choose a level of risk you are willing to take on your investment. The available options are low, medium and high risks.\nStep 6: From a list of available funds that match your intent, choose the\nStep 7: You can either choose ‘Invest One Time’ for a substantial one-time investment or ‘Start SIP’ for SIP investment.\nBy following these simple steps, you can easily invest in\nMirae Asset Mutual Funds online\nfrom the convenience of your home. The entire process shouldn’t take any more than a few minutes. Once you are through with all the steps, your investment is registered. It shall reflect shortly on your Groww account.\nNow let us jump and check about these top\nMirae Asset ELSS Tax Saver Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 15.19% & 13.18%. The Mirae Asset ELSS Tax Saver Fund comes under the Equity category of Mirae Asset Mutual Funds.\nLump sum minimum amount for Mirae Asset ELSS Tax Saver Fund is ₹500 and for SIP, it is ₹500.\nMirae Asset Large & Midcap Fund Direct Growth"
+}

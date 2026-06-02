@@ -1,0 +1,44 @@
+{
+  "amcs": [
+    {
+      "name": "SBI Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds"
+    },
+    {
+      "name": "HDFC Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds"
+    },
+    {
+      "name": "ICICI Prudential Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds"
+    },
+    {
+      "name": "Kotak Mahindra Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds"
+    },
+    {
+      "name": "Axis Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds"
+    },
+    {
+      "name": "Mirae Asset Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds"
+    },
+    {
+      "name": "Nippon India Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds"
+    },
+    {
+      "name": "Tata Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds"
+    },
+    {
+      "name": "UTI Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds"
+    },
+    {
+      "name": "Groww Mutual Fund",
+      "groww_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "SBI Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "SBI Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "SBI Mutual Fund is one of India's largest and oldest asset management companies, established as a joint venture between State Bank of India and Amundi (a French asset management company).",
+    "support_contact": {
+      "email": "customercare@sbimf.com",
+      "phone": "1800-425-5425"
+    },
+    "servicing_processes": {
+      "account_statement": "Go to the SBI Mutual Fund website investor services portal, enter your 10-digit PAN or Folio Number, authenticate via the OTP sent to your registered mobile number/email, and download the statement instantly. Alternatively, SMS 'STMT' to 9212900070 from your registered mobile number.",
+      "capital_gains_report": "Log into the SBI Mutual Fund online portal, select Investor Services, choose 'Capital Gains Statement', enter your PAN, select the assessment year, and click submit. The statement will be emailed to your registered address within 5 minutes.",
+      "tax_savings_80c": "Investing in SBI Long Term Equity Fund (ELSS) qualifies for income tax deduction under Section 80C up to Rs. 1.5 Lakhs per financial year, subject to a mandatory 3-year lock-in period."
+    },
+    "schemes": [
+      {
+        "name": "SBI Bluechip Fund",
+        "type": "Large Cap",
+        "expense_ratio": {
+          "direct": "0.87%",
+          "regular": "1.55%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "S&P BSE 100 TRI",
+        "fund_managers": [
+          {
+            "name": "Sohini Andani",
+            "experience": "Over 25 years in financial services",
+            "credentials": "B.Com, MMS",
+            "tenure": "managing since September 2010"
+          },
+          {
+            "name": "Pradeep Kesavan",
+            "experience": "Dedicated overseas investment manager",
+            "credentials": "B.Tech, PGDM",
+            "tenure": "managing since May 2021"
+          }
+        ]
+      },
+      {
+        "name": "SBI Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.69%",
+          "regular": "1.62%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "R. Srinivasan",
+            "experience": "Head of Equity, over 20 years experience",
+            "credentials": "M.Com, MFM",
+            "tenure": "managing since November 2013"
+          }
+        ]
+      },
+      {
+        "name": "SBI Long Term Equity Fund",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "0.94%",
+          "regular": "1.64%"
+        },
+        "exit_load": "Nil (No charges apply)",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "3 years (36 months mandatory lock-in)",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Dinesh Balachandran",
+            "experience": "Over 18 years in research and portfolio management",
+            "credentials": "B.Tech, MS, PGDM",
+            "tenure": "managing since September 2016"
+          }
+        ]
+      },
+      {
+        "name": "SBI Contra Fund",
+        "type": "Contra",
+        "expense_ratio": {
+          "direct": "0.65%",
+          "regular": "1.55%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "S&P BSE 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Dinesh Balachandran",
+            "experience": "Over 18 years in research and portfolio management",
+            "credentials": "B.Tech, MS, PGDM",
+            "tenure": "managing since May 2018"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "SBI Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nThe SBI Mutual Fund Trustee Company Private Limited was set up as a trust under the Trust Act of 1882. This Trust controls the SBI Mutual Fund, one of India’s largest and oldest MFs. The SBI Mutual Fund is a Joint Venture (JV) between one of India’s largest and most profitable banks, the State Bank of India, and Amundi, which is a French asset management company.\nThe SBI Mutual Fund was set up on June 29, 1987 and was incorporated on February 7, 1992. It was India’s second Mutual Fund after the Unit Trust of India started operations in 1963. In July 2004, SBI decided to divest 37% of the Fund and roped in Amundi as a partner.\nAmundi is an asset management major created jointly by Crédit Agricole and Société Générale.\nSBI MF has many firsts to its name. It was the first Indian Mutual Fund player to launch a ‘Contra’ fund, called the SBI Contra Fund. In 2013, SBI Mutual Fund India acquired Daiwa Mutual Fund, part of the Daiwa Group of Japan.\nSBI Mutual Fund is the first in India to launch an ESG Fund. An acronym for Environment, Social and Governance, the fund provides resources for sustainable investment in major markets.\nIn 2015, the Employees’ Provident Fund of India invested Rs 5,000 Crore for the first time in a Mutual Fund in India via SBIMF Sensex ETFs or Exchange Traded Funds.\nThe SBI MF is registered with the Securities and Exchange Board of India or SEBI.\nList of SBI Mutual Fund in India\nExit load of 1% if redeemed within 15 days.\nExit load of 0.50% if redeemed within 30 days.\nExit load of 0.25% if redeemed within 30 days and 0.10% if redeemed after 30 days but on or before 90 days.\nExit load of 1% if redeemed within 1 year\nExit load of 0.10% if redeemed within 30 days.\nExit load of 0.25% if redeemed within 30 days.\nSBI Healthcare Opportunities Fund\nExit load of 0.50% if redeemed within 15 days\nSBI Silver ETF FoF Direct-Growth\nExit load of 1%, if redeemed within 15 days.\nSBI Large Cap Direct Plan-Growth\nExit load of 0.25% if redeemed within 30 days and 0.10% if redeemed after 30 days but on or before 90 days.\nSBI Magnum Children's Benefit Fund\nWith respect to units not subject to lock-in period and the holding period is less than\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year.\nWith respect to units not subject to lock-in period and the holding period is less than\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year.\nSBI Multi Asset Allocation Fund\nFor units in excess of 10% of the investment, 1% will be charged for redemption within 12 months\nExit load of 0.25% if redeemed within 30 days and 0.10% if redeemed after 30 days but on or before 90 days.\nExit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.\nSBI Small Cap Fund Direct Growth\nSBI Large & Midcap Fund Direct Plan Growth\nSBI Nifty Next 50 Index Fund Direct Growth\nSBI Healthcare Opportunities Fund Direct Plan Growth\nSBI ELSS Tax Saver Fund Direct Growth\nSBI Silver ETF FoF Direct Growth\nSBI Large Cap Direct Plan Growth\nSBI Magnum Children's Benefit Fund Investment Plan Direct Growth\nSBI Children's Fund Investment Plan Direct Growth\nSBI Multi Asset Allocation Fund Direct Growth\nSBI Liquid Fund Direct Plan Growth\nSBI Mutual Fund Trustee Company Private Limited\nRama Iyer Srinivasan(Chief Investment Officer-Equity), Rajeev Radhakrishnan(Chief Investment Officer-Debt)\nNand Kishore(Chief Executive Officer)\nTotal AUM (as of end of last quarter)\n9th Floor & Unit no. 1002, 1003 and 1004 of 10th floor,Crescenzo, C-38 & 39, G Block, Bandra Kurla Complex,Bandra (East) Mumbai 400051\n— Paperless sign up on web & app\nHow to invest in SBI Mutual Fund?\nMutual Fund investment not only provides a lot of benefits but can also help in reducing the risk by investing in diverse portfolios. If you are looking to invest in SBI Bank Mutual funds, such an investment can be made online as well as offline. The SBI mutual fund application via offline mode can be done by filling up an investment application form. If you prefer to do it online, the prerequisites of how can you invest in SBI MF online is given below.\nThe applicant should be an existing SBI Bank account holder\nThe applicant should be KYC Compliant\nThe status of the Savings Bank Account needs to be Single or Either/Survivor\nThe Account Opening Application Form needs to be signed by all the Bank Account Holders\nHowever, you can also invest in SBI Mutual Funds online on Groww; the steps for which are given below:\nHow to Invest in SBI MF on Groww\nInvesting in the most profitable\nis easy and a relatively hassle-free process. Read the process listed below to set up your account in no time at all.\nStep 1: First, log in to your Groww account. If you do not have an account, you can register and create a new one right away.\nStep 2: Upload your Identification documents. Valid documents include Aadhaar, PAN, Voter ID card, Passport, Driving License, ID issued by either Central or State government.\nStep 3: Upload an address proof. Any identifying document that carries your permanent address is valid.\nStep 4: Determine your investment’s duration.\nStep 5: Determine risk amount- whether it is high, low or medium risk.\nStep 7: If you wish to invest a lumpsum amount, click on “Invest One Time.” Alternatively, you can start an SIP by clicking on “Start SIP.”\nwill reflect in your personal Groww account within 3-4 working days.\nNow let us jump and check about these top\nThe fund's annualized returns for the past 3 years & 5 years has been around 35.64% & 24.49%. The SBI Gold Direct Plan-Growth comes under the Commodities category of SBI Mutual Funds.\nLump sum minimum amount for SBI Gold Direct Plan-Growth is ₹5,000 and for SIP, it is ₹500.\nThe fund's annualized returns for the past 3 years & 5 years has been around 30.84% & 24.88%. The SBI PSU Direct Plan-Growth comes under the Equity category of SBI Mutual Funds.\nLump sum minimum amount for SBI PSU Direct Plan-Growth is ₹5,000 and for SIP, it is ₹500.\nThe fund's annualized returns for the past 3 years & 5 years has been around 16.12% & 17.97%. The SBI Contra Direct Plan-Growth comes under the Equity category of SBI Mutual Funds.\nLump sum minimum amount for SBI Contra Direct Plan-Growth is ₹5,000 and for SIP, it is ₹500.\nSBI Small Cap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 13.26% & 14.61%. The SBI Small Cap Fund comes under the Equity category of SBI Mutual Funds.\nLump sum minimum amount for SBI Small Cap Fund is ₹5,000 and for SIP, it is ₹500.\nSBI Large & Midcap Fund Direct Plan Growth"
+}

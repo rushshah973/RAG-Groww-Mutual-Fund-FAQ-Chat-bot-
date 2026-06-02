@@ -1,0 +1,111 @@
+{
+  "title": "ICICI Prudential Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "ICICI Prudential Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "ICICI Prudential Mutual Fund is managed by ICICI Prudential Asset Management Company Limited, a joint venture with Prudential plc.",
+    "support_contact": {
+      "email": "enquiry@icicipruamc.com",
+      "phone": "1800-222-999"
+    },
+    "servicing_processes": {
+      "account_statement": "Request account statement delivery via SMS or download via the IPRUMF Portal by providing PAN and verifying via OTP.",
+      "capital_gains_report": "Log into the IPRUMF portal, navigate to 'Tax Center', select assessment year, enter registered email, and request capital gains statement delivery.",
+      "tax_savings_80c": "Investing in ICICI Prudential Long Term Equity Fund (Tax Saving) qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in."
+    },
+    "schemes": [
+      {
+        "name": "ICICI Prudential Bluechip Fund",
+        "type": "Large Cap",
+        "expense_ratio": {
+          "direct": "0.90%",
+          "regular": "1.62%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year (365 days), Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 100 TRI",
+        "fund_managers": [
+          {
+            "name": "Anish Tawakley",
+            "experience": "Over 20 years in fund management and research",
+            "credentials": "B.Tech, PGDM",
+            "tenure": "managing since September 2018"
+          },
+          {
+            "name": "Rajat Chandak",
+            "experience": "Over 12 years in financial markets",
+            "credentials": "B.Com, MBA",
+            "tenure": "managing since July 2017"
+          }
+        ]
+      },
+      {
+        "name": "ICICI Prudential Value Discovery Fund",
+        "type": "Value Style",
+        "expense_ratio": {
+          "direct": "1.15%",
+          "regular": "1.95%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 Value 50 TRI",
+        "fund_managers": [
+          {
+            "name": "Sankaran Naren",
+            "experience": "ED and CIO, over 30 years in equity markets",
+            "credentials": "B.Tech, PGDM",
+            "tenure": "managing since January 2011"
+          }
+        ]
+      },
+      {
+        "name": "ICICI Prudential Long Term Equity Fund",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "1.12%",
+          "regular": "1.84%"
+        },
+        "exit_load": "Nil",
+        "lock_in_period": "3 years (36 months mandatory lock-in)",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Harish Bihani",
+            "experience": "Over 12 years in research and fund management",
+            "credentials": "B.Com, MBA",
+            "tenure": "managing since November 2018"
+          }
+        ]
+      },
+      {
+        "name": "ICICI Prudential Multi-Asset Fund",
+        "type": "Multi Asset",
+        "expense_ratio": {
+          "direct": "0.95%",
+          "regular": "1.75%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 50 TRI",
+        "fund_managers": [
+          {
+            "name": "Sankaran Naren",
+            "experience": "ED and CIO, over 30 years in equity markets",
+            "credentials": "B.Tech, PGDM",
+            "tenure": "managing since February 2012"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "ICICI Prudential Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nICICI Prudential Asset Management Company Ltd. is a leading asset management company (AMC) in the country focused on bridging the gap between savings & investments and creating long term wealth for investors through a range of simple and relevant investment solutions.\nThe AMC is a joint venture between ICICI Bank, a well-known and trusted name in financial services in India and Prudential Plc, a leading pan-Asia & Africa focused group providing health, protection and savings solutions. Throughout these years of the joint venture, the company has forged a position of pre-eminence in the Indian Mutual Fund industry.\nThe AMC manages significant Assets under Management (AUM) in the mutual fund segment. The AMC also caters to Portfolio Management Services for investors, spread across the country, along with International Advisory Mandates for clients across international markets in asset classes like Debt, Equity and Real Estate.\nThe AMC has witnessed substantial growth in scale; from 2 locations and 6 employees at the inception of the joint venture in 1998, to a current strength of 3072 employees with a reach across over 350 locations reaching out to an investor base of 97 lakh investors (as on January 31st, 2024). The company’s growth momentum has been exponential and it has always focused on increasing accessibility for its investors.\nDriven by an entirely investor centric approach, the organization today is a suitable mix of investment expertise, resource bandwidth and process orientation. The AMC endeavors to simplify its investor’s journey to meet their financial goals, and give a good investor experience through innovation, consistency and sustained risk adjusted performance.\nList of ICICI Prudential Mutual Fund in India\nICICI Prudential Silver ETF FoF Direct-Growth\nExit load of 1% If redeemed within 15 days.\nICICI Prudential Large Cap Fund\nExit load of 1%, if redeemed within 1 month.\nICICI Prudential BHARAT 22 FOF Direct-Growth\nICICI Prudential Multi Asset Fund\nExit Load for units in excess of 30% of the investment,1% will be charged for redemption within 365 days.\nICICI Prudential Technology Direct Plan-Growth\nExit load of 1% if redeemed within 15 days\nICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund\nExit load of 1% if redeemed within 15 days.\nICICI Prudential Nifty Next 50 Index Direct-Growth\nICICI Prudential Short Term Fund\nICICI Prudential Commodities Fund\nExit load of 1% if redeemed within 3 months.\nICICI Prudential Large & Mid Cap Fund\nExit load of 1% if redeemed within 1 month.\nICICI Prudential Equity & Debt Fund\nExit load for units in excess of 30% of the investment,1% will be charged for redemption within 365 days\nICICI Prudential Infrastructure Direct-Growth\nExit load of 1% if redeemed within 15 days\nICICI Prudential Nifty 50 Index Direct Plan-Growth\nExit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.\nExit load of 1%, if redeemed within 1 month.\nICICI Prudential Silver ETF FoF Direct Growth\nICICI Prudential Large Cap Fund Direct Growth\nICICI Prudential BHARAT 22 FOF Direct Growth\nICICI Prudential Multi Asset Fund Direct Growth\nICICI Prudential Technology Direct Plan Growth\nICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund Direct Growth\nICICI Prudential Nifty Next 50 Index Direct Growth\nICICI Prudential Short Term Fund Direct Plan Growth\nICICI Prudential Commodities Fund Direct Growth\nICICI Prudential Large & Mid Cap Fund Direct Plan Growth\nICICI Prudential Equity & Debt Fund Direct Growth\nICICI Prudential Infrastructure Direct Growth\nICICI Prudential Nifty 50 Index Direct Plan Growth\nICICI Prudential Liquid Fund Direct Plan Growth\nICICI Prudential Flexicap Fund Direct Growth\nabout ICICI Prudential Mutual Fund\nPrudential Plc and ICICI Bank Ltd.\nSankaran Naren(Chief Investment Officer), Manish Banthia(Chief Investment Officer-Debt)\nNimesh Shah(Chief Executive Officer)\nTotal AUM (as of end of last quarter)\nOne BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051\n— Paperless sign up on web & app\nHow can you invest in the best ICICI Prudential Mutual Fund?\nInvesting in the top ICICI Mutual Funds online is easy and comparatively hassle-free when you use your Groww account. The entire process is described below.\nStep 1: First, you will have to log in to your Groww account. In case you do not have a Groww account, you will have to sign up for one. Registering for a new account is free and saves you time too.\nStep 2: Upload your identification documents using our website. You can use all the documents commonly accepted at any financial institution. Aadhaar, PAN, Driver’s Licence, Voter ID Card, Identification issued by either the Central or State Governments, or your Passport are all valid documents.\nStep 3: Upload your address verification documents. Any document which mentions your permanent address will do.\nStep 4: Determine the length of your investment.\nStep 5: Determine if you are looking for high, low or medium risks. Higher return potential will also come with just as high risks involved.\nStep 6: Based on your criteria, select the most suitable\nStep 7: You have the freedom to choose from two alternatives. You can either click on “Invest One Time Only” if you are looking to invest a lump sum. Else, you can choose to begin a systematic SIP plan by choosing the “Start SIP” option.\nStep 8: Start your investment immediately with a few clicks of the mouse.\nWithin 3 to 4 working days, your\ninvestment will be reflected in your Groww account.\nNow let us jump and check about these top\nICICI Prudential Silver ETF FoF Direct Growth\nThe ICICI Prudential Silver ETF FoF Direct-Growth comes under the Commodities category of ICICI Prudential Mutual Funds.\nLump sum minimum amount for ICICI Prudential Silver ETF FoF Direct-Growth is ₹100 and for SIP, it is ₹100.\nICICI Prudential Large Cap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 14.22% & 13.59%. The ICICI Prudential Large Cap Fund comes under the Equity category of ICICI Prudential Mutual Funds.\nLump sum minimum amount for ICICI Prudential Large Cap Fund is ₹100 and for SIP, it is ₹100.\nICICI Prudential BHARAT 22 FOF Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 23.16% & 24.7%. The ICICI Prudential BHARAT 22 FOF Direct-Growth comes under the Equity category of ICICI Prudential Mutual Funds.\nLump sum minimum amount for ICICI Prudential BHARAT 22 FOF Direct-Growth is ₹5,000 and for SIP, it is ₹1,000."
+}

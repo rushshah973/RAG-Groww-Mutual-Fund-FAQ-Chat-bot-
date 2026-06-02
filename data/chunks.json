@@ -1,0 +1,992 @@
+[
+  {
+    "id": "doc_0",
+    "text": "About HDFC Mutual Fund: HDFC Mutual Fund is a premier asset management company in India, managed by HDFC Asset Management Company Limited.",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_1",
+    "text": "Customer Support contact details for HDFC Mutual Fund: Email: cliser@hdfcfund.com, Phone: 1800-3010-6767.",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_2",
+    "text": "Process to download or request Account Statement from HDFC Mutual Fund: Generate HDFC Account Statement via HDFC MF Quick Query page using PAN and OTP, or request statement online via HDFC HMFOnline portal or HDFC MF mobile app.",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_3",
+    "text": "Process to download or request Capital Gains Report/Statement from HDFC Mutual Fund: Log into HDFC MF online client portal, select 'Tax Statements', enter PAN, choose assessment year, and download instantly.",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_4",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for HDFC Mutual Fund: Investing in HDFC TaxSaver Fund (ELSS) qualifies for income tax deduction under Section 80C up to Rs. 1.5 Lakhs per financial year, subject to a mandatory 3-year lock-in period.",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_5",
+    "text": "Scheme factsheet details for 'HDFC Top 100 Fund' managed by HDFC Mutual Fund. Type: Large Cap. Expense Ratio: Direct Plan is 0.75%, Regular Plan is 1.45%. Exit Load: 1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 100 TRI. Fund Managers: Gopal Agrawal (Credentials: B.E, MMS, Experience: Over 24 years in fund management, Tenure: managing since December 2020).",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "HDFC Top 100 Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_6",
+    "text": "Scheme factsheet details for 'HDFC Mid-Cap Opportunities Fund' managed by HDFC Mutual Fund. Type: Mid Cap. Expense Ratio: Direct Plan is 0.82%, Regular Plan is 1.61%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Midcap 150 TRI. Fund Managers: Chirag Setalvad (Credentials: B.Sc, MBA, Experience: Over 20 years in equity research, Tenure: managing since March 2007).",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_7",
+    "text": "Scheme factsheet details for 'HDFC TaxSaver Fund' managed by HDFC Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 1.10%, Regular Plan is 1.82%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years mandatory lock-in. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Roshi Jain (Credentials: PGDM, CFA, Experience: Over 17 years in research and management, Tenure: managing since January 2022).",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "HDFC TaxSaver Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_8",
+    "text": "Scheme factsheet details for 'HDFC Small Cap Fund' managed by HDFC Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.62%, Regular Plan is 1.58%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Chirag Setalvad (Credentials: B.Sc, MBA, Experience: Over 20 years in equity research, Tenure: managing since June 2014).",
+    "metadata": {
+      "amc_name": "HDFC Mutual Fund",
+      "scheme_name": "HDFC Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_9",
+    "text": "About Kotak Mahindra Mutual Fund: Kotak Mahindra Mutual Fund is managed by Kotak Mahindra Asset Management Company Limited.",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_10",
+    "text": "Customer Support contact details for Kotak Mahindra Mutual Fund: Email: mutual@kotak.com, Phone: 1800-309-1490.",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_11",
+    "text": "Process to download or request Account Statement from Kotak Mahindra Mutual Fund: Download statements via Kotak MF Investor Portal or via WhatsApp Support by requesting statement delivery to registered email.",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_12",
+    "text": "Process to download or request Capital Gains Report/Statement from Kotak Mahindra Mutual Fund: Log into Kotak Mutual Fund portal under Quick Services, enter PAN, select Financial Year, and download Capital Gains Statement.",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_13",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for Kotak Mahindra Mutual Fund: Investing in Kotak Tax Saver Scheme qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in.",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_14",
+    "text": "Scheme factsheet details for 'Kotak Flexicap Fund' managed by Kotak Mahindra Mutual Fund. Type: Flexi Cap. Expense Ratio: Direct Plan is 0.72%, Regular Plan is 1.58%. Exit Load: 1.00% for redemptions above 10% within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Harsha Upadhyaya (Credentials: B.E, PGDM, CFA, Experience: CIO - Equity, over 22 years in mutual funds, Tenure: managing since August 2012).",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "Kotak Flexicap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_15",
+    "text": "Scheme factsheet details for 'Kotak Emerging Equity Fund' managed by Kotak Mahindra Mutual Fund. Type: Mid Cap. Expense Ratio: Direct Plan is 0.81%, Regular Plan is 1.71%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Midcap 150 TRI. Fund Managers: Pankaj Tibrewal (Credentials: B.Com, MBA, Experience: Over 18 years in mid-cap fund management, Tenure: managing since May 2010).",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "Kotak Emerging Equity Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_16",
+    "text": "Scheme factsheet details for 'Kotak Tax Saver Scheme' managed by Kotak Mahindra Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 0.62%, Regular Plan is 1.85%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years mandatory lock-in. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Harsha Upadhyaya (Credentials: B.E, PGDM, CFA, Experience: CIO - Equity, over 22 years in mutual funds, Tenure: managing since August 2012).",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "Kotak Tax Saver Scheme",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_17",
+    "text": "Scheme factsheet details for 'Kotak Small Cap Fund' managed by Kotak Mahindra Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.48%, Regular Plan is 1.62%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Pankaj Tibrewal (Credentials: B.Com, MBA, Experience: Over 18 years in mid-cap fund management, Tenure: managing since January 2010).",
+    "metadata": {
+      "amc_name": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "Kotak Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/kotak-mahindra-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_18",
+    "text": "About Tata Mutual Fund: Tata Mutual Fund is managed by Tata Asset Management Private Limited.",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_19",
+    "text": "Customer Support contact details for Tata Mutual Fund: Email: service@tataamc.com, Phone: 1800-209-0101.",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_20",
+    "text": "Process to download or request Account Statement from Tata Mutual Fund: Request via Tata AMC investor services page using Folio/PAN and OTP authentication.",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_21",
+    "text": "Process to download or request Capital Gains Report/Statement from Tata Mutual Fund: Select 'Capital Gains' from Tata AMC online portal, authenticate using OTP, and download instantly.",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_22",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for Tata Mutual Fund: Investing in Tata India Tax Savings Fund qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in.",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_23",
+    "text": "Scheme factsheet details for 'Tata Digital India Fund' managed by Tata Mutual Fund. Type: Sectoral/IT. Expense Ratio: Direct Plan is 0.78%, Regular Plan is 1.95%. Exit Load: 0.25% if redeemed within 30 days, Nil after 30 days. Minimum SIP Amount: Rs. 150. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty IT TRI. Fund Managers: Meeta Shetty (Credentials: CFA, B.Com, Experience: Over 14 years in equity research and management, Tenure: managing since July 2020).",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "Tata Digital India Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_24",
+    "text": "Scheme factsheet details for 'Tata India Tax Savings Fund' managed by Tata Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 0.85%, Regular Plan is 1.81%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years mandatory lock-in. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Chandraprakash Padiyar (Credentials: MBA, CFA, Experience: Over 19 years in portfolio management, Tenure: managing since September 2018).",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "Tata India Tax Savings Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_25",
+    "text": "Scheme factsheet details for 'Tata Small Cap Fund' managed by Tata Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.35%, Regular Plan is 1.45%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Chandraprakash Padiyar (Credentials: MBA, CFA, Experience: Over 19 years in portfolio management, Tenure: managing since October 2018).",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "Tata Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_26",
+    "text": "Scheme factsheet details for 'Tata Gold ETF FoF' managed by Tata Mutual Fund. Type: Commodities/Gold. Expense Ratio: Direct Plan is 0.15%, Regular Plan is 0.50%. Exit Load: 0.50% if redeemed within 7 days, Nil after 7 days. Minimum SIP Amount: Rs. 150. Lock-in Period: Nil. Riskometer Classification: High. Benchmark Index: Domestic Price of Gold. Fund Managers: Rahul Singh (Credentials: B.Tech, PGDM, Experience: Over 15 years in equity research and trading, Tenure: managing since October 2023).",
+    "metadata": {
+      "amc_name": "Tata Mutual Fund",
+      "scheme_name": "Tata Gold ETF FoF",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_27",
+    "text": "About UTI Mutual Fund: UTI Mutual Fund is India's first mutual fund, managed by UTI Asset Management Company Limited.",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_28",
+    "text": "Customer Support contact details for UTI Mutual Fund: Email: service@uti.co.in, Phone: 1800-266-1230.",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_29",
+    "text": "Process to download or request Account Statement from UTI Mutual Fund: Generate statements from UTI Mutual Fund customer support portal using Folio / PAN.",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_30",
+    "text": "Process to download or request Capital Gains Report/Statement from UTI Mutual Fund: Select Capital Gains statement from UTI MF online investor support center, verify PAN, and download.",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_31",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for UTI Mutual Fund: Investing in UTI Long Term Equity Fund (Tax Saving) qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in.",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_32",
+    "text": "Scheme factsheet details for 'UTI Mastershare Unit Scheme' managed by UTI Mutual Fund. Type: Large Cap. Expense Ratio: Direct Plan is 0.92%, Regular Plan is 1.68%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: S&P BSE 100 TRI. Fund Managers: Swati Kulkarni (Credentials: B.Sc, MMS, CFA, Experience: Over 25 years in investment research and equity funds, Tenure: managing since December 2005).",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "UTI Mastershare Unit Scheme",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_33",
+    "text": "Scheme factsheet details for 'UTI Long Term Equity Fund' managed by UTI Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 1.10%, Regular Plan is 1.85%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years mandatory lock-in. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Vetri Subramaniam (Credentials: B.Com, PGDM, Experience: CIO, over 28 years in equity markets, Tenure: managing since September 2017).",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "UTI Long Term Equity Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_34",
+    "text": "Scheme factsheet details for 'UTI Small Cap Fund' managed by UTI Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.55%, Regular Plan is 1.55%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Vetri Subramaniam (Credentials: B.Com, PGDM, Experience: CIO, over 28 years in equity markets, Tenure: managing since September 2017).",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "UTI Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_35",
+    "text": "Scheme factsheet details for 'UTI Flexi Cap Fund' managed by UTI Mutual Fund. Type: Flexi Cap. Expense Ratio: Direct Plan is 0.90%, Regular Plan is 1.80%. Exit Load: 1.00% if redeemed within 1 year for units in excess of 10%, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Vetri Subramaniam (Credentials: B.Com, PGDM, Experience: CIO, over 28 years in equity markets, Tenure: managing since September 2017).",
+    "metadata": {
+      "amc_name": "UTI Mutual Fund",
+      "scheme_name": "UTI Flexi Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_36",
+    "text": "About Groww Mutual Fund: Groww Mutual Fund is managed by Groww Asset Management Company Limited.",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_37",
+    "text": "Customer Support contact details for Groww Mutual Fund: Email: support@groww.in, Phone: 1800-102-7625.",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_38",
+    "text": "Process to download or request Account Statement from Groww Mutual Fund: Download statement instantly from Groww app under profile orders or request via support chat.",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_39",
+    "text": "Process to download or request Capital Gains Report/Statement from Groww Mutual Fund: Go to Groww app dashboard, select 'Tax Reports', choose financial year, and download consolidated capital gains report.",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_40",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for Groww Mutual Fund: Groww Mutual Fund currently offers index funds. Non-index ELSS plans are pending rollout.",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_41",
+    "text": "Scheme factsheet details for 'Groww Nifty Total Market Index Fund' managed by Groww Mutual Fund. Type: Index Fund. Expense Ratio: Direct Plan is 0.25%, Regular Plan is 0.75%. Exit Load: Nil Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Total Market TRI. Fund Managers: Abhishek Jain (Credentials: B.Tech, MBA, Experience: Over 12 years in index and derivative strategies, Tenure: managing since October 2023).",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "Groww Nifty Total Market Index Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_42",
+    "text": "Scheme factsheet details for 'Groww Small Cap Fund' managed by Groww Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.30%, Regular Plan is 0.80%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Abhishek Jain (Credentials: B.Tech, MBA, Experience: Over 12 years in index and derivative strategies, Tenure: managing since October 2023).",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "Groww Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_43",
+    "text": "Scheme factsheet details for 'Groww Gold ETF FOF' managed by Groww Mutual Fund. Type: Commodities/Gold. Expense Ratio: Direct Plan is 0.10%, Regular Plan is 0.30%. Exit Load: 1.00% if redeemed within 30 days, Nil after 30 days. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: High. Benchmark Index: Domestic Price of Gold. Fund Managers: Abhishek Jain (Credentials: B.Tech, MBA, Experience: Over 12 years in index and derivative strategies, Tenure: managing since October 2023).",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "Groww Gold ETF FOF",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_44",
+    "text": "Scheme factsheet details for 'Groww Silver ETF FoF' managed by Groww Mutual Fund. Type: Commodities/Silver. Expense Ratio: Direct Plan is 0.12%, Regular Plan is 0.32%. Exit Load: 1.00% if redeemed within 30 days, Nil after 30 days. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Domestic Price of Silver. Fund Managers: Abhishek Jain (Credentials: B.Tech, MBA, Experience: Over 12 years in index and derivative strategies, Tenure: managing since October 2023).",
+    "metadata": {
+      "amc_name": "Groww Mutual Fund",
+      "scheme_name": "Groww Silver ETF FoF",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_45",
+    "text": "About Axis Mutual Fund: Axis Mutual Fund is one of India's leading asset management companies, managed by Axis Asset Management Company Ltd.",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_46",
+    "text": "Customer Support contact details for Axis Mutual Fund: Email: customerservice@axismf.com, Phone: 1800-3000-8811.",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_47",
+    "text": "Process to download or request Account Statement from Axis Mutual Fund: Request account statement via Axis MF portal by entering Folio / PAN and verifying via OTP.",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_48",
+    "text": "Process to download or request Capital Gains Report/Statement from Axis Mutual Fund: Download consolidated capital gains statement on Axis MF app or portal under 'Tax Services'.",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_49",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for Axis Mutual Fund: Investing in Axis Long Term Equity Fund (ELSS) qualifies for income tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in.",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_50",
+    "text": "Scheme factsheet details for 'Axis Bluechip Fund' managed by Axis Mutual Fund. Type: Large Cap. Expense Ratio: Direct Plan is 0.85%, Regular Plan is 1.60%. Exit Load: 1.00% for redemptions above 10% within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 50 TRI. Fund Managers: Shreyash Devalkar (Credentials: B.Chem, MMS, Experience: Over 18 years in financial markets, Tenure: managing since November 2017).",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "Axis Bluechip Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_51",
+    "text": "Scheme factsheet details for 'Axis Long Term Equity Fund' managed by Axis Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 0.80%, Regular Plan is 1.65%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years mandatory lock-in. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Jinesh Gopani (Credentials: B.Com, MMS, Experience: Head of Equity, over 20 years in fund management, Tenure: managing since April 2011).",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "Axis Long Term Equity Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_52",
+    "text": "Scheme factsheet details for 'Axis Small Cap Fund' managed by Axis Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.53%, Regular Plan is 1.63%. Exit Load: 1.00% for redemptions above 10% within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Ashish Naik (Credentials: B.E, MBA, CFA, FRM, Experience: Over 16 years of experience in financial markets, Tenure: managing since July 2016).",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "Axis Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_53",
+    "text": "Scheme factsheet details for 'Axis Midcap Fund' managed by Axis Mutual Fund. Type: Mid Cap. Expense Ratio: Direct Plan is 0.52%, Regular Plan is 1.60%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Midcap 150 TRI. Fund Managers: Shreyash Devalkar (Credentials: B.Chem, MMS, Experience: Over 18 years in financial markets, Tenure: managing since November 2017).",
+    "metadata": {
+      "amc_name": "Axis Mutual Fund",
+      "scheme_name": "Axis Midcap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/axis-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_54",
+    "text": "About Nippon India Mutual Fund: Nippon India Mutual Fund is managed by Nippon Life India Asset Management Limited.",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_55",
+    "text": "Customer Support contact details for Nippon India Mutual Fund: Email: customer-service@nipponindiaim.com, Phone: 1860-266-0111.",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_56",
+    "text": "Process to download or request Account Statement from Nippon India Mutual Fund: Download statement instantly via Nippon India Mutual Fund Quick Statement page by providing email/folio.",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_57",
+    "text": "Process to download or request Capital Gains Report/Statement from Nippon India Mutual Fund: Log into the Nippon India Customer portal, navigate to Service Requests, and download the tax gains report.",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_58",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for Nippon India Mutual Fund: Investing in Nippon India Tax Saver (ELSS) Fund qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in.",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_59",
+    "text": "Scheme factsheet details for 'Nippon India Small Cap Fund' managed by Nippon India Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.72%, Regular Plan is 1.59%. Exit Load: 1.00% if redeemed within 1 month, Nil after 1 month. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Samir Rachh (Credentials: B.Com, Experience: Over 20 years in research and funds management, Tenure: managing since January 2017).",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "Nippon India Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_60",
+    "text": "Scheme factsheet details for 'Nippon India Tax Saver Fund' managed by Nippon India Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 1.15%, Regular Plan is 1.95%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years mandatory lock-in. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Rupesh Patel (Credentials: B.E, MBA, Experience: Over 19 years in equity investment, Tenure: managing since February 2013).",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "Nippon India Tax Saver Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_61",
+    "text": "Scheme factsheet details for 'Nippon India Large Cap Fund' managed by Nippon India Mutual Fund. Type: Large Cap. Expense Ratio: Direct Plan is 0.75%, Regular Plan is 1.65%. Exit Load: 1.00% if redeemed within 7 days, Nil after 7 days. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 100 TRI. Fund Managers: Sailesh Raj Bhan (Credentials: B.Com, MBA, Experience: Over 20 years in research and funds management, Tenure: managing since August 2007).",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "Nippon India Large Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_62",
+    "text": "Scheme factsheet details for 'Nippon India Growth Mid Cap Fund' managed by Nippon India Mutual Fund. Type: Mid Cap. Expense Ratio: Direct Plan is 0.85%, Regular Plan is 1.75%. Exit Load: 1.00% if redeemed within 1 month, Nil after 1 month. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Midcap 150 TRI. Fund Managers: Sailesh Raj Bhan (Credentials: B.Com, MBA, Experience: Over 20 years in research and funds management, Tenure: managing since June 1995).",
+    "metadata": {
+      "amc_name": "Nippon India Mutual Fund",
+      "scheme_name": "Nippon India Growth Mid Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/nippon-india-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_63",
+    "text": "About SBI Mutual Fund: SBI Mutual Fund is one of India's largest and oldest asset management companies, established as a joint venture between State Bank of India and Amundi (a French asset management company).",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_64",
+    "text": "Customer Support contact details for SBI Mutual Fund: Email: customercare@sbimf.com, Phone: 1800-425-5425.",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_65",
+    "text": "Process to download or request Account Statement from SBI Mutual Fund: Go to the SBI Mutual Fund website investor services portal, enter your 10-digit PAN or Folio Number, authenticate via the OTP sent to your registered mobile number/email, and download the statement instantly. Alternatively, SMS 'STMT' to 9212900070 from your registered mobile number.",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_66",
+    "text": "Process to download or request Capital Gains Report/Statement from SBI Mutual Fund: Log into the SBI Mutual Fund online portal, select Investor Services, choose 'Capital Gains Statement', enter your PAN, select the assessment year, and click submit. The statement will be emailed to your registered address within 5 minutes.",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_67",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for SBI Mutual Fund: Investing in SBI Long Term Equity Fund (ELSS) qualifies for income tax deduction under Section 80C up to Rs. 1.5 Lakhs per financial year, subject to a mandatory 3-year lock-in period.",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_68",
+    "text": "Scheme factsheet details for 'SBI Bluechip Fund' managed by SBI Mutual Fund. Type: Large Cap. Expense Ratio: Direct Plan is 0.87%, Regular Plan is 1.55%. Exit Load: 1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: S&P BSE 100 TRI. Fund Managers: Sohini Andani (Credentials: B.Com, MMS, Experience: Over 25 years in financial services, Tenure: managing since September 2010); Pradeep Kesavan (Credentials: B.Tech, PGDM, Experience: Dedicated overseas investment manager, Tenure: managing since May 2021).",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "SBI Bluechip Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_69",
+    "text": "Scheme factsheet details for 'SBI Small Cap Fund' managed by SBI Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.69%, Regular Plan is 1.62%. Exit Load: 1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: R. Srinivasan (Credentials: M.Com, MFM, Experience: Head of Equity, over 20 years experience, Tenure: managing since November 2013).",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "SBI Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_70",
+    "text": "Scheme factsheet details for 'SBI Long Term Equity Fund' managed by SBI Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 0.94%, Regular Plan is 1.64%. Exit Load: Nil (No charges apply) Minimum SIP Amount: Rs. 500. Lock-in Period: 3 years (36 months mandatory lock-in). Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Dinesh Balachandran (Credentials: B.Tech, MS, PGDM, Experience: Over 18 years in research and portfolio management, Tenure: managing since September 2016).",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "SBI Long Term Equity Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_71",
+    "text": "Scheme factsheet details for 'SBI Contra Fund' managed by SBI Mutual Fund. Type: Contra. Expense Ratio: Direct Plan is 0.65%, Regular Plan is 1.55%. Exit Load: 1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: S&P BSE 500 TRI. Fund Managers: Dinesh Balachandran (Credentials: B.Tech, MS, PGDM, Experience: Over 18 years in research and portfolio management, Tenure: managing since May 2018).",
+    "metadata": {
+      "amc_name": "SBI Mutual Fund",
+      "scheme_name": "SBI Contra Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/sbi-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_72",
+    "text": "About Mirae Asset Mutual Fund: Mirae Asset Mutual Fund is managed by Mirae Asset Investment Managers (India) Private Limited.",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_73",
+    "text": "Customer Support contact details for Mirae Asset Mutual Fund: Email: customercare@miraeasset.com, Phone: 1800-2090-777.",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_74",
+    "text": "Process to download or request Account Statement from Mirae Asset Mutual Fund: Instantly download via Mirae Asset Mutual Fund transaction portal or via email link requested using PAN.",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_75",
+    "text": "Process to download or request Capital Gains Report/Statement from Mirae Asset Mutual Fund: Request Capital Gains Statement via Mirae Asset Investor services portal by specifying folio and tax year.",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_76",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for Mirae Asset Mutual Fund: Investing in Mirae Asset Tax Saver Fund qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in.",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_77",
+    "text": "Scheme factsheet details for 'Mirae Asset Large Cap Fund' managed by Mirae Asset Mutual Fund. Type: Large Cap. Expense Ratio: Direct Plan is 0.65%, Regular Plan is 1.48%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 1,000. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 100 TRI. Fund Managers: Gaurav Misra (Credentials: B.A, PGDM, Experience: Over 23 years in investment research and management, Tenure: managing since January 2019).",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "Mirae Asset Large Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_78",
+    "text": "Scheme factsheet details for 'Mirae Asset Tax Saver Fund' managed by Mirae Asset Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 0.60%, Regular Plan is 1.62%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years mandatory lock-in. Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Neelesh Surana (Credentials: B.E, PGDM, Experience: Head of Equities, over 24 years experience, Tenure: managing since December 2015).",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "Mirae Asset Tax Saver Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_79",
+    "text": "Scheme factsheet details for 'Mirae Asset Small Cap Fund' managed by Mirae Asset Mutual Fund. Type: Small Cap. Expense Ratio: Direct Plan is 0.45%, Regular Plan is 1.55%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Smallcap 250 TRI. Fund Managers: Neelesh Surana (Credentials: B.E, PGDM, Experience: Head of Equities, over 24 years experience, Tenure: managing since December 2015).",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "Mirae Asset Small Cap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_80",
+    "text": "Scheme factsheet details for 'Mirae Asset Midcap Fund' managed by Mirae Asset Mutual Fund. Type: Mid Cap. Expense Ratio: Direct Plan is 0.60%, Regular Plan is 1.65%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 1,000. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty Midcap 150 TRI. Fund Managers: Neelesh Surana (Credentials: B.E, PGDM, Experience: Head of Equities, over 24 years experience, Tenure: managing since July 2019).",
+    "metadata": {
+      "amc_name": "Mirae Asset Mutual Fund",
+      "scheme_name": "Mirae Asset Midcap Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/mirae-asset-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_81",
+    "text": "About ICICI Prudential Mutual Fund: ICICI Prudential Mutual Fund is managed by ICICI Prudential Asset Management Company Limited, a joint venture with Prudential plc.",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_82",
+    "text": "Customer Support contact details for ICICI Prudential Mutual Fund: Email: enquiry@icicipruamc.com, Phone: 1800-222-999.",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "amc_profile",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_83",
+    "text": "Process to download or request Account Statement from ICICI Prudential Mutual Fund: Request account statement delivery via SMS or download via the IPRUMF Portal by providing PAN and verifying via OTP.",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_84",
+    "text": "Process to download or request Capital Gains Report/Statement from ICICI Prudential Mutual Fund: Log into the IPRUMF portal, navigate to 'Tax Center', select assessment year, enter registered email, and request capital gains statement delivery.",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_85",
+    "text": "Tax Savings (Section 80C) benefits and ELSS lock-in guidelines for ICICI Prudential Mutual Fund: Investing in ICICI Prudential Long Term Equity Fund (Tax Saving) qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in.",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "General",
+      "document_type": "servicing_process",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_86",
+    "text": "Scheme factsheet details for 'ICICI Prudential Bluechip Fund' managed by ICICI Prudential Mutual Fund. Type: Large Cap. Expense Ratio: Direct Plan is 0.90%, Regular Plan is 1.62%. Exit Load: 1.00% if redeemed within 1 year (365 days), Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 100 TRI. Fund Managers: Anish Tawakley (Credentials: B.Tech, PGDM, Experience: Over 20 years in fund management and research, Tenure: managing since September 2018); Rajat Chandak (Credentials: B.Com, MBA, Experience: Over 12 years in financial markets, Tenure: managing since July 2017).",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "ICICI Prudential Bluechip Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_87",
+    "text": "Scheme factsheet details for 'ICICI Prudential Value Discovery Fund' managed by ICICI Prudential Mutual Fund. Type: Value Style. Expense Ratio: Direct Plan is 1.15%, Regular Plan is 1.95%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 500. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 500 Value 50 TRI. Fund Managers: Sankaran Naren (Credentials: B.Tech, PGDM, Experience: ED and CIO, over 30 years in equity markets, Tenure: managing since January 2011).",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "ICICI Prudential Value Discovery Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_88",
+    "text": "Scheme factsheet details for 'ICICI Prudential Long Term Equity Fund' managed by ICICI Prudential Mutual Fund. Type: ELSS Tax Saving. Expense Ratio: Direct Plan is 1.12%, Regular Plan is 1.84%. Exit Load: Nil Minimum SIP Amount: N/A. Lock-in Period: 3 years (36 months mandatory lock-in). Riskometer Classification: Very High. Benchmark Index: Nifty 500 TRI. Fund Managers: Harish Bihani (Credentials: B.Com, MBA, Experience: Over 12 years in research and fund management, Tenure: managing since November 2018).",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "ICICI Prudential Long Term Equity Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  },
+  {
+    "id": "doc_89",
+    "text": "Scheme factsheet details for 'ICICI Prudential Multi-Asset Fund' managed by ICICI Prudential Mutual Fund. Type: Multi Asset. Expense Ratio: Direct Plan is 0.95%, Regular Plan is 1.75%. Exit Load: 1.00% if redeemed within 1 year, Nil after 1 year. Minimum SIP Amount: Rs. 100. Lock-in Period: Nil. Riskometer Classification: Very High. Benchmark Index: Nifty 50 TRI. Fund Managers: Sankaran Naren (Credentials: B.Tech, PGDM, Experience: ED and CIO, over 30 years in equity markets, Tenure: managing since February 2012).",
+    "metadata": {
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "scheme_name": "ICICI Prudential Multi-Asset Fund",
+      "document_type": "scheme_factsheet",
+      "source_url": "https://groww.in/mutual-funds/amc/icici-prudential-mutual-funds",
+      "extracted_date": "2026-06-02"
+    }
+  }
+]

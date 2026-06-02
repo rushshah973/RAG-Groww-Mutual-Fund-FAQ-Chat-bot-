@@ -1,0 +1,105 @@
+{
+  "title": "HDFC Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "HDFC Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "HDFC Mutual Fund is a premier asset management company in India, managed by HDFC Asset Management Company Limited.",
+    "support_contact": {
+      "email": "cliser@hdfcfund.com",
+      "phone": "1800-3010-6767"
+    },
+    "servicing_processes": {
+      "account_statement": "Generate HDFC Account Statement via HDFC MF Quick Query page using PAN and OTP, or request statement online via HDFC HMFOnline portal or HDFC MF mobile app.",
+      "capital_gains_report": "Log into HDFC MF online client portal, select 'Tax Statements', enter PAN, choose assessment year, and download instantly.",
+      "tax_savings_80c": "Investing in HDFC TaxSaver Fund (ELSS) qualifies for income tax deduction under Section 80C up to Rs. 1.5 Lakhs per financial year, subject to a mandatory 3-year lock-in period."
+    },
+    "schemes": [
+      {
+        "name": "HDFC Top 100 Fund",
+        "type": "Large Cap",
+        "expense_ratio": {
+          "direct": "0.75%",
+          "regular": "1.45%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year (365 days) from allotment, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 100 TRI",
+        "fund_managers": [
+          {
+            "name": "Gopal Agrawal",
+            "experience": "Over 24 years in fund management",
+            "credentials": "B.E, MMS",
+            "tenure": "managing since December 2020"
+          }
+        ]
+      },
+      {
+        "name": "HDFC Mid-Cap Opportunities Fund",
+        "type": "Mid Cap",
+        "expense_ratio": {
+          "direct": "0.82%",
+          "regular": "1.61%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Midcap 150 TRI",
+        "fund_managers": [
+          {
+            "name": "Chirag Setalvad",
+            "experience": "Over 20 years in equity research",
+            "credentials": "B.Sc, MBA",
+            "tenure": "managing since March 2007"
+          }
+        ]
+      },
+      {
+        "name": "HDFC TaxSaver Fund",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "1.10%",
+          "regular": "1.82%"
+        },
+        "exit_load": "Nil",
+        "lock_in_period": "3 years mandatory lock-in",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Roshi Jain",
+            "experience": "Over 17 years in research and management",
+            "credentials": "PGDM, CFA",
+            "tenure": "managing since January 2022"
+          }
+        ]
+      },
+      {
+        "name": "HDFC Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.62%",
+          "regular": "1.58%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "Chirag Setalvad",
+            "experience": "Over 20 years in equity research",
+            "credentials": "B.Sc, MBA",
+            "tenure": "managing since June 2014"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "HDFC Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nHDFC Asset Management Company Ltd., or\nis currently the largest mutual fund and actively managed equity mutual fund in India. It is one of the most profitable asset management companies (AMC) in the country.\nThe company serviced more than 75000 empanelled distribution partners through 210 branches spread across more than 200 cities in India.\nHDFC Asset Management Company Ltd. received approval to act as an AMC from SEBI back on 30 June 2000 under the registration number MF/044/00/6. It also offers portfolio management/non-binding investment advisory services since 18 September 2016 under the registration code PM /INP000000506 from SEBI.\nList of HDFC Mutual Fund in India\nHDFC Silver ETF FoF Direct-Growth\nExit load of 1%, if redeemed within 15 days.\nExit load of 1% if redeemed within 1 year.\nHDFC Flexi Cap Direct Plan-Growth\nExit load of 1% if redeemed within 1 year\nExit load of 1% if redeemed within 1 year\nExit load of 1%, if redeemed within 1 year.\nExit load of 1%, if redeemed within 15 days.\nExit load of 0.25% if redeemed within 3 days\nExit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.\nHDFC Pharma And Healthcare Fund\nExit load of 1%, if redeemed within 30 days.\nExit load of 1% if redeemed within 1 year.\nExit load of 1% if redeemed within 1 year\nExit load of 0.25% if redeemed within 3 days\nExit load of 1% if redeemed within 1 year\nHDFC Silver ETF FoF Direct Growth\nHDFC Mid Cap Fund Direct Growth\nHDFC Flexi Cap Direct Plan Growth\nHDFC Small Cap Fund Direct Growth\nHDFC Defence Fund Direct Growth\nHDFC Gold ETF Fund of Fund Direct Plan Growth\nHDFC NIFTY 50 Index Fund Direct Growth\nHDFC Balanced Advantage Fund Direct Growth\nHDFC Pharma And Healthcare Fund Direct Growth\nHDFC Multi Cap Fund Direct Growth\nHDFC Short Term Debt Fund Direct Plan Growth\nHDFC Focused Fund Direct Growth\nHDFC BSE Sensex Index Fund Direct Growth\nHDFC Large and Mid Cap Fund Direct Growth\nHDFC NIFTY Next 50 Index Fund Direct Growth\nAbrdn Investment Management Limited (AIML) erstwhile (Standard Life Investments)\nMr. V.Srinivasa Rangan (Director)\nMr. Mehernosh Kapadia (Independent Director)\nMr. Dindayal Jalan (Independent Director)\nHead – Equities: Chirag Setalvad, Head – Fixed Income: Shobhit Mehrotra\nNavneet Munot(Chief Executive Officer)\nTotal AUM (as of end of last quarter)\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\n— Paperless sign up on web & app\nHow to invest in HDFC Mutual Funds?\nMutual Fund investment not only provides a lot of benefits but can also help in reducing the risk by investing in diverse portfolios. If you are looking to invest in HDFC Bank Mutual funds, such an investment can be made online as well as offline. The HDFC mutual fund application via offline mode can be done by filling up an investment application form. If you prefer to do it online, the prerequisites of how can you invest in HDFC MF online is given below.\nThe applicant should be an existing HDFC Bank account holder\nThe applicant should be KYC Compliant\nThe status of the Savings Bank Account needs to be Single or Either/Survivor\nThe Account Opening Application Form needs to be signed by all the Bank Account Holders\nHowever, you can also invest in HDFC Mutual Funds online on Groww; the steps for which are given below:\nHow to Invest in HDFC MF on Groww\nis a convenient process and you can do so by following the few simple steps mentioned below:\nStep 1. Log-in to your Groww account or register if you don’t have one.\nStep 2. Upload your identity proof documents (Aadhaar, Voter ID, PAN, Passport, Driving License, Central or State Government ID card, etc.)\nStep 3. Upload your proof of address documents (any identity proof documents with your permanent address, etc.)\nStep 4. Select the investment period of your preference.\nStep 5. Choose your risk appetite - low, mid, or high.\nStep 7. Click on “Invest One Time” if you want to invest a lump sum amount or “Start SIP” if you want to invest via SIP.\nyou have invested in will show in your Groww account within 3 to 4 working days.\nNow let us jump and check about these top\nHDFC Silver ETF FoF Direct Growth\nThe HDFC Silver ETF FoF Direct-Growth comes under the Commodities category of HDFC Mutual Funds.\nLump sum minimum amount for HDFC Silver ETF FoF Direct-Growth is ₹100 and for SIP, it is ₹100.\nHDFC Mid Cap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 22.12% & 20.83%. The HDFC Mid Cap Fund comes under the Equity category of HDFC Mutual Funds.\nLump sum minimum amount for HDFC Mid Cap Fund is ₹100 and for SIP, it is ₹100.\nHDFC Flexi Cap Direct Plan Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 17.99% & 17.85%. The HDFC Flexi Cap Direct Plan-Growth comes under the Equity category of HDFC Mutual Funds.\nLump sum minimum amount for HDFC Flexi Cap Direct Plan-Growth is ₹100 and for SIP, it is ₹100.\nHDFC Small Cap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 14.81% & 17.98%. The HDFC Small Cap Fund comes under the Equity category of HDFC Mutual Funds.\nLump sum minimum amount for HDFC Small Cap Fund is ₹100 and for SIP, it is ₹100."
+}

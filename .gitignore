@@ -1,0 +1,25 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+
+# API keys & Configuration
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vector store & Database
+data/vector_store/
+**/__pycache__/
+*.log

@@ -1,0 +1,106 @@
+{
+  "title": "Groww Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/groww-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "Groww Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "Groww Mutual Fund is managed by Groww Asset Management Company Limited.",
+    "support_contact": {
+      "email": "support@groww.in",
+      "phone": "1800-102-7625"
+    },
+    "servicing_processes": {
+      "account_statement": "Download statement instantly from Groww app under profile orders or request via support chat.",
+      "capital_gains_report": "Go to Groww app dashboard, select 'Tax Reports', choose financial year, and download consolidated capital gains report.",
+      "tax_savings_80c": "Groww Mutual Fund currently offers index funds. Non-index ELSS plans are pending rollout."
+    },
+    "schemes": [
+      {
+        "name": "Groww Nifty Total Market Index Fund",
+        "type": "Index Fund",
+        "expense_ratio": {
+          "direct": "0.25%",
+          "regular": "0.75%"
+        },
+        "exit_load": "Nil",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Total Market TRI",
+        "fund_managers": [
+          {
+            "name": "Abhishek Jain",
+            "experience": "Over 12 years in index and derivative strategies",
+            "credentials": "B.Tech, MBA",
+            "tenure": "managing since October 2023"
+          }
+        ]
+      },
+      {
+        "name": "Groww Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.30%",
+          "regular": "0.80%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "Abhishek Jain",
+            "experience": "Over 12 years in index and derivative strategies",
+            "credentials": "B.Tech, MBA",
+            "tenure": "managing since October 2023"
+          }
+        ]
+      },
+      {
+        "name": "Groww Gold ETF FOF",
+        "type": "Commodities/Gold",
+        "expense_ratio": {
+          "direct": "0.10%",
+          "regular": "0.30%"
+        },
+        "exit_load": "1.00% if redeemed within 30 days, Nil after 30 days.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "High",
+        "benchmark": "Domestic Price of Gold",
+        "fund_managers": [
+          {
+            "name": "Abhishek Jain",
+            "experience": "Over 12 years in index and derivative strategies",
+            "credentials": "B.Tech, MBA",
+            "tenure": "managing since October 2023"
+          }
+        ]
+      },
+      {
+        "name": "Groww Silver ETF FoF",
+        "type": "Commodities/Silver",
+        "expense_ratio": {
+          "direct": "0.12%",
+          "regular": "0.32%"
+        },
+        "exit_load": "1.00% if redeemed within 30 days, Nil after 30 days.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Domestic Price of Silver",
+        "fund_managers": [
+          {
+            "name": "Abhishek Jain",
+            "experience": "Over 12 years in index and derivative strategies",
+            "credentials": "B.Tech, MBA",
+            "tenure": "managing since October 2023"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "Groww Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nGroww Mutual Fund, a leading fund house, is renowned for its innovative approach to delivering investment solutions. It specializes in a broad array of financial products tailored to meet the distinct needs and aspirations of its investors.\nThe philosophy of Groww Mutual Fund is built upon the pillars of simplicity, transparency, consistent wealth creation, and customer centricity. They are focused on identifying investment opportunities where high growth aligns with robust fundamentals.\nOperating under the trusteeship of Groww Trustee Limited and sponsored by Groww Invest Tech Pvt Ltd, Groww Mutual Fund offers a diverse portfolio. The portfolio encompasses a wide range of investment schemes, including equity funds, hybrid funds, debt funds, and ETFs.\nList of Groww Mutual Fund in India\nGroww Nifty Total Market Index Fund\nExit load of 0.25%, if redeemed within 7 days.\nGroww Silver ETF FoF Direct-Growth\nExit load of 1%, if redeemed within 30 days.\nExit load of 1%, if redeemed within 1 Year.\nGroww Gold ETF FOF Direct-Growth\nExit load of 1%, if redeemed within 30 days.\nExit load of 1% if redeemed within 1 year.\nGroww Nifty EV & New Age Automotive ETF FoF Direct-Growth\nExit load of 1%, if redeemed within 30 days.\nExit load of 1%, if redeemed within 1 year.\nGroww Nifty India Defence ETF FoF Direct-Growth\nExit load of 1%, if redeemed within 30 days.\nGroww Nifty Smallcap 250 Index Fund\nExit load of 0.25%, if redeemed within 7 days.\nExit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.\nGroww Nifty India Railways PSU Index Fund\nExit load of 1%, if redeemed within 30 days.\nGroww Nifty Non-Cyclical Consumer Index Fund\nExit load of 1%, if redeemed within 30 days.\nGroww Banking & Financial Services Fund\nExit load of 1%, if redeemed within 30 days.\nGroww BSE Power ETF FOF Direct-Growth\nGroww Nifty Private Bank Index Fund\nGroww Nifty Total Market Index Fund Direct Growth\nGroww Silver ETF FoF Direct Growth\nGroww Small Cap Fund Direct Growth\nGroww Gold ETF FOF Direct Growth\nGroww Nifty EV & New Age Automotive ETF FoF Direct Growth\nGroww Multicap Fund Direct Growth\nGroww Nifty India Defence ETF FoF Direct Growth\nGroww Nifty Smallcap 250 Index Fund Direct Growth\nGroww Liquid Fund Direct Growth\nGroww Nifty India Railways PSU Index Fund Direct Growth\nGroww Nifty Non Cyclical Consumer Index Fund Direct Growth\nGroww Banking & Financial Services Fund Direct Growth\nGroww BSE Power ETF FOF Direct Growth\nGroww Nifty Private Bank Index Fund Direct Growth\nVarun Gupta(Chief Executive Officer)\nTotal AUM (as of end of last quarter)\n505 – 5th Floor, Tower 2B, One World Centre, Near Prabhadevi Railway Station, Lower Parel,Maharashtra Mumbai 400013\n— Paperless sign up on web & app\nHow can you invest in Groww Mutual Funds?\nby following some simple steps. Mentioned below is the process to invest in this mutual fund.\nStep 1. Log-in to your Groww account to access the necessary information. If you are a new user, register your details to create an account.\nStep 2. Upload a copy of your Identity Proof, like Voter ID, Aadhaar, PAN Card, passport, Driving Licence, etc. It should be a document issued by the Central or State Government.\nStep 3. Upload a Proof of Address document. It can be any identity proof document with your permanent address mentioned.\nStep 4. Choose an appropriate investment period for the scheme.\nStep 5. Select whether you want to invest in a low, medium, or high-risk scheme.\nStep 6. Set your preferred mutual fund as\nStep 7. Select “Invest One Time” if you want to invest a large amount; select “Start SIP” if you want to invest the amount via SIP.\ninvestment will reflect in your Groww account within 3 to 4 business days after the completion of the process.\nNow let us jump and check about these top\nGroww Nifty Total Market Index Fund Direct Growth\nThe Groww Nifty Total Market Index Fund comes under the Equity category of Groww Mutual Funds.\nLump sum minimum amount for Groww Nifty Total Market Index Fund is ₹500 and for SIP, it is ₹500.\nGroww Silver ETF FoF Direct Growth\nThe Groww Silver ETF FoF Direct-Growth comes under the Commodities category of Groww Mutual Funds.\nLump sum minimum amount for Groww Silver ETF FoF Direct-Growth is ₹500 and for SIP, it is ₹500.\nGroww Small Cap Fund Direct Growth\nThe Groww Small Cap Fund comes under the Equity category of Groww Mutual Funds.\nLump sum minimum amount for Groww Small Cap Fund is ₹500 and for SIP, it is ₹500.\nGroww Gold ETF FOF Direct Growth\nThe Groww Gold ETF FOF Direct-Growth comes under the Commodities category of Groww Mutual Funds.\nLump sum minimum amount for Groww Gold ETF FOF Direct-Growth is ₹500 and for SIP, it is ₹500.\nThe fund's annualized returns for the past 3 years & 5 years has been around 15.9% & 13.56%. The Groww Value Fund comes under the Equity category of Groww Mutual Funds.\nLump sum minimum amount for Groww Value Fund is ₹500 and for SIP, it is ₹500.\nGroww Nifty EV & New Age Automotive ETF FoF Direct Growth\nThe Groww Nifty EV & New Age Automotive ETF FoF Direct-Growth comes under the Equity category of Groww Mutual Funds.\nLump sum minimum amount for Groww Nifty EV & New Age Automotive ETF FoF Direct-Growth is ₹500 and for SIP, it is ₹500."
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Tata Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/tata-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "Tata Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "Tata Mutual Fund is managed by Tata Asset Management Private Limited.",
+    "support_contact": {
+      "email": "service@tataamc.com",
+      "phone": "1800-209-0101"
+    },
+    "servicing_processes": {
+      "account_statement": "Request via Tata AMC investor services page using Folio/PAN and OTP authentication.",
+      "capital_gains_report": "Select 'Capital Gains' from Tata AMC online portal, authenticate using OTP, and download instantly.",
+      "tax_savings_80c": "Investing in Tata India Tax Savings Fund qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in."
+    },
+    "schemes": [
+      {
+        "name": "Tata Digital India Fund",
+        "type": "Sectoral/IT",
+        "expense_ratio": {
+          "direct": "0.78%",
+          "regular": "1.95%"
+        },
+        "exit_load": "0.25% if redeemed within 30 days, Nil after 30 days.",
+        "minimum_sip": "Rs. 150",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty IT TRI",
+        "fund_managers": [
+          {
+            "name": "Meeta Shetty",
+            "experience": "Over 14 years in equity research and management",
+            "credentials": "CFA, B.Com",
+            "tenure": "managing since July 2020"
+          }
+        ]
+      },
+      {
+        "name": "Tata India Tax Savings Fund",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "0.85%",
+          "regular": "1.81%"
+        },
+        "exit_load": "Nil",
+        "lock_in_period": "3 years mandatory lock-in",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Chandraprakash Padiyar",
+            "experience": "Over 19 years in portfolio management",
+            "credentials": "MBA, CFA",
+            "tenure": "managing since September 2018"
+          }
+        ]
+      },
+      {
+        "name": "Tata Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.35%",
+          "regular": "1.45%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 100",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "Chandraprakash Padiyar",
+            "experience": "Over 19 years in portfolio management",
+            "credentials": "MBA, CFA",
+            "tenure": "managing since October 2018"
+          }
+        ]
+      },
+      {
+        "name": "Tata Gold ETF FoF",
+        "type": "Commodities/Gold",
+        "expense_ratio": {
+          "direct": "0.15%",
+          "regular": "0.50%"
+        },
+        "exit_load": "0.50% if redeemed within 7 days, Nil after 7 days.",
+        "minimum_sip": "Rs. 150",
+        "lock_in_period": "Nil",
+        "riskometer": "High",
+        "benchmark": "Domestic Price of Gold",
+        "fund_managers": [
+          {
+            "name": "Rahul Singh",
+            "experience": "Over 15 years in equity research and trading",
+            "credentials": "B.Tech, PGDM",
+            "tenure": "managing since October 2023"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "Tata Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nTata Asset Management Ltd. (TAML) is part of the Tata Group that manages\n. The company was established in 1994 and offers diverse investment options to investors based on their risk appetite, financial objectives, and income.\nAccording to the company, their business is based on the 3 most significant aspects – performance, service, and trust. Its vision is to deliver a better quality of life to their investors by securing their financial future.\nTata Asset Management Ltd. currently offers hybrid funds, equity funds, and fixed income funds. The funds have received various awards over the years some of which include –\nCNBC TV 18 Mutual Fund Awards awarded the Tata Equity P/E Fund as the Best Value/Contra Fund.\nCNBC TV 18 Mutual Fund Awards also awarded the Tata Treasury Advantage Fund as the Best Low Duration Debt Fund.\nThomson Reuters Lipper India 2018 Fund Awards awarded the Tata Retirement Savings-Moderate (3 years & 5 years) in the Mixed Asset INR Aggressive category.\nBusiness Today-Money Today Financial Awards awarded the Tata Balanced Fund as the Best Long-Term Balanced Fund in its category.\nTata Asset Management Ltd. is registered as a mutual fund with SEBI under the registration code MF/023/95/9. The company registered itself as a portfolio manager in 14 September 2004 with the registration code INP000001058. It also operates a Foreign Institutional Investor (FII) - Tata Asset Management (Mauritius) Private Ltd., registered with SEBI under the registration code INMUFD161207.\nWhile Tata Sons Ltd. holds 67.91% shares in TAML, 32.09% shares are held by Tata Investment Corporation Ltd.\nList of Tata Mutual Fund in India\nExit load of 0.50%, if redeemed within 30 days.\nTata Gold ETF FoF Direct-Growth\nExit load of 0.5%, if redeemed within 7 days.\nExit load of 0.25% if redeemed within 30 days.\nTata Silver ETF FoF Direct-Growth\nExit load of 0.5%, if redeemed within 7 days.\nExit load of 0.25%, if redeemed within 15 days.\nTata Ethical Direct Plan-Growth\nExit load of 0.50% if redeemed within 90 days.\nTata Nifty Capital Markets Index Fund\nExit load of 0.25%, if redeemed within 15 days\nTata Nifty Midcap 150 Momentum 50 Index Fund\nExit load of 0.50%, if redeemed within 30 days.\nExit load of 0.25% if redeemed within 30 days.\nTata India Pharma & Healthcare Fund\nExit load of 0.25% if redeemed within 30 days.\nTitanium Hybrid Long-Short Fund\nExit load of 1%, if redeemed within 365 days.\nExit load of 0.25% if redeemed within 7 days\nTata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund\nExit load of 0.25%, if redeemed within 15 days.\nTata Small Cap Fund Direct Growth\nTata Gold ETF FoF Direct Growth\nTata Digital India Fund Direct Growth\nTata Silver ETF FoF Direct Growth\nTata Arbitrage Fund Direct Growth\nTata Ethical Direct Plan Growth\nTata Nifty Capital Markets Index Fund Direct Growth\nTata Nifty Midcap 150 Momentum 50 Index Fund Direct Growth\nTata Resources & Energy Fund Direct Growth\nTata India Pharma & Healthcare Fund Direct Growth\nTitanium Hybrid Long Short Fund Direct Growth\nTata Money Market Fund Direct Growth\nTata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund Direct Growth\nTata Trustee Company Private Ltd\nMr. Cyrus F Vachha(Independent Director)\nMr. Shuva Mandal(Associate Director)\nPrathit Bhobe(Chief Executive Officer)\nRahul Singh(Chief Investment Officer-Equity)\nTotal AUM (as of end of last quarter)\n9th Floor, Mafatlal Centre,Nariman Point, Mumbai 400021\n— Paperless sign up on web & app\nHow can you invest in Tata Mutual Funds?\nsimply by following the few steps mentioned below:\nStep 1. Log-in to your Groww account or register yourself if you don’t have one.\nStep 2. Upload your proof of identity documents like Aadhaar, Voter ID, PAN, Driving License, Passport, Central or State Government ID card, etc.).\nStep 3. Upload your proof of address documents like any identity proof documents with your permanent address, etc.\nStep 4. Select the period you want to invest your funds.\nStep 5. Choose your risk appetite - low, mid, or high.\nStep 7. Click on “Invest One Time” is you want to invest a lump sum amount or “Start SIP” if you want to invest via SIP.\nyou have invested in will appear in your Groww account within 3 to 4 working days.\nNow let us jump and check about these top\nTata Small Cap Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 12.79% & 16.75%. The Tata Small Cap Fund comes under the Equity category of Tata Mutual Funds.\nLump sum minimum amount for Tata Small Cap Fund is ₹5,000 and for SIP, it is ₹100.\nTata Gold ETF FoF Direct Growth\nThe Tata Gold ETF FoF Direct-Growth comes under the Commodities category of Tata Mutual Funds.\nLump sum minimum amount for Tata Gold ETF FoF Direct-Growth is ₹5,000 and for SIP, it is ₹150.\nTata Digital India Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 7.95% & 8.85%. The Tata Digital India Fund comes under the Equity category of Tata Mutual Funds.\nLump sum minimum amount for Tata Digital India Fund is ₹5,000 and for SIP, it is ₹100.\nTata Silver ETF FoF Direct Growth\nThe Tata Silver ETF FoF Direct-Growth comes under the Commodities category of Tata Mutual Funds."
+}

@@ -1,0 +1,105 @@
+{
+  "title": "UTI Mutual Fund Structured Details & Schemes",
+  "url": "https://groww.in/mutual-funds/amc/uti-mutual-funds",
+  "document_type": "structured_amc_profile",
+  "scheme_name": "UTI Mutual Fund",
+  "extracted_date": "2026-06-02",
+  "structured_data": {
+    "about": "UTI Mutual Fund is India's first mutual fund, managed by UTI Asset Management Company Limited.",
+    "support_contact": {
+      "email": "service@uti.co.in",
+      "phone": "1800-266-1230"
+    },
+    "servicing_processes": {
+      "account_statement": "Generate statements from UTI Mutual Fund customer support portal using Folio / PAN.",
+      "capital_gains_report": "Select Capital Gains statement from UTI MF online investor support center, verify PAN, and download.",
+      "tax_savings_80c": "Investing in UTI Long Term Equity Fund (Tax Saving) qualifies for tax deduction under Section 80C up to Rs. 1.5 Lakhs per year, subject to a mandatory 3-year lock-in."
+    },
+    "schemes": [
+      {
+        "name": "UTI Mastershare Unit Scheme",
+        "type": "Large Cap",
+        "expense_ratio": {
+          "direct": "0.92%",
+          "regular": "1.68%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "S&P BSE 100 TRI",
+        "fund_managers": [
+          {
+            "name": "Swati Kulkarni",
+            "experience": "Over 25 years in investment research and equity funds",
+            "credentials": "B.Sc, MMS, CFA",
+            "tenure": "managing since December 2005"
+          }
+        ]
+      },
+      {
+        "name": "UTI Long Term Equity Fund",
+        "type": "ELSS Tax Saving",
+        "expense_ratio": {
+          "direct": "1.10%",
+          "regular": "1.85%"
+        },
+        "exit_load": "Nil",
+        "lock_in_period": "3 years mandatory lock-in",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Vetri Subramaniam",
+            "experience": "CIO, over 28 years in equity markets",
+            "credentials": "B.Com, PGDM",
+            "tenure": "managing since September 2017"
+          }
+        ]
+      },
+      {
+        "name": "UTI Small Cap Fund",
+        "type": "Small Cap",
+        "expense_ratio": {
+          "direct": "0.55%",
+          "regular": "1.55%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty Smallcap 250 TRI",
+        "fund_managers": [
+          {
+            "name": "Vetri Subramaniam",
+            "experience": "CIO, over 28 years in equity markets",
+            "credentials": "B.Com, PGDM",
+            "tenure": "managing since September 2017"
+          }
+        ]
+      },
+      {
+        "name": "UTI Flexi Cap Fund",
+        "type": "Flexi Cap",
+        "expense_ratio": {
+          "direct": "0.90%",
+          "regular": "1.80%"
+        },
+        "exit_load": "1.00% if redeemed within 1 year for units in excess of 10%, Nil after 1 year.",
+        "minimum_sip": "Rs. 500",
+        "lock_in_period": "Nil",
+        "riskometer": "Very High",
+        "benchmark": "Nifty 500 TRI",
+        "fund_managers": [
+          {
+            "name": "Vetri Subramaniam",
+            "experience": "CIO, over 28 years in equity markets",
+            "credentials": "B.Com, PGDM",
+            "tenure": "managing since September 2017"
+          }
+        ]
+      }
+    ]
+  },
+  "raw_scraped_text": "UTI Mutual Fund - Latest MF Schemes, NAV, Performance & Returns 2026 - Groww\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nMonitor top intraday performers in real time\nGet the best of Mutual Funds and flexibility of Stocks\nTrack upcoming and ongoing IPOs\nFilter based on RSI, PE ratio and more\nDividends, bonus, buybacks and more\nBegin your stock market journey\nLive news updates from stock market\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nTrack charts, orders, positions, watchlists in one place\nAnalyse chains, view payoffs, create baskets\nTrade in Crude Oil, Gold, Silver and more\nSet up and execute trades through our API\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nKnow about AMCs, funds, fund managers\nTrack all active NFOs in one place\nMutual funds by Groww designed for your investment goals\nBuild long-term wealth through disciplined monthly investing.\nFilter funds based on risk, fund size and more\nImport funds and track all investments in a single place\nEstimate charges for your trade/investment\nEstimate balance needed to buy/sell a stock\nReturns on your systematic withdrawal plan\nAditya Birla Sun Life Mutual Fund\nGilt with 10 year Constant Duration\nIn 2003, the Unit Trust of India was bifurcated into two components- the SUUTI and the UTI Mutual Funds or UTIMF. The\nwas registered with the SEBI on the First of February 2003.\n4 of the largest PSU banks now back this Mutual Fund.\nare managed by the UTI Asset Management Company Ltd. The 4 big partners- State Bank of India, the PNB or Punjab National Bank, Bank of Baroda, and the Life Insurance Corporation of India each holds 18.24% of the shares in the UTIMF.\nA significant share of 26% is held by the T Rowe Price Group Inc, also known as the TRP Grou, and controlled by its subsidiary - T Rowe Price Global Investment Services Ltd.\nThe UTI Mutual Fund is precedes most renowned Mutual Funds in India. Its investors number nearly 11 million and there are over 250 plans currently operational with a total AuM of nearly Rs 238790 Crores.\nWhat makes these offers attractive is their distribution. There is no other provider of Mutual Funds in India with a larger outreach of services. Even the\nreach out to most of rural and semi-urban regions of India.\nThere are over 50,000 AMFI and NSFM certified Independent Advisors on Finance who are spread all over the country who work on behalf of UTI Mutual Funds. There are over 200 full-time Financial Service Centres too. UTI Mutual Fund is the eighth largest mutual fund house by asset size in India.\nOne of the most popular and long-running Mutual Fund schemes is the UTI Mastershare, which was launched by the then-extant UTI in 1986.\nThe UTI Mutual Fund persists as a pioneer in the industry in the domestic sector. It was the first to offer a Unit Linked Insurance Plan or ULIP in 1971 with added life and accident cover. It also reached another milestone in 1986 with what was India’s first Offshore fund, called simply the ‘India Fund.’\nOne of the feats achieved by the UTI Asset Management company was to create the UTI Wealth Builder Fund which links two separate but closely related asset classes- Gold and Equity. Thanks to the huge number of subscribers, the UTI Mutual Fund is still going strong in the Indian market.\nThe fund managers at UTI Asset Management, which manages the Mutual Funds, have divested widely and are involved in a wide array of businesses, including retirement solutions, portfolio management solutions, International Banking and alternative assets management.\nList of UTI Mutual Fund in India\nExit load of 1%, if redeemed within 15 days\nUTI Nifty 500 Value 50 Index Fund\nUTI Silver ETF FoF Direct-Growth\nExit load of 1%, if redeemed within 15 days.\nUTI Nifty200 Momentum 30 Index Fund\nUTI Transportation and Logistics Fund\nExit load of 1% if redeemed within 30 days.\nUTI Nifty500 Shariah Index Fund\nUTI Multi Asset Allocation Fund\nExit load of 1%, if redeemed within 30 days.\nExit load of 1% if redeemed within one year.\nExit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.\nExit load of 1% if redeemed less than 1 year\nExit load of 1%, if redeemed within 90 days.\nExit load of 1% if redeemed within 30 days.\nUTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund\nUTI Nifty 50 Index Fund Direct Growth\nUTI Nifty 500 Value 50 Index Fund Direct Growth\nUTI Silver ETF FoF Direct Growth\nUTI Nifty Next 50 Index Fund Direct Growth\nUTI Nifty200 Momentum 30 Index Fund Direct Growth\nUTI Transportation and Logistics Fund Direct Growth\nUTI Nifty500 Shariah Index Fund Direct Growth\nUTI Multi Asset Allocation Fund Direct Growth\nUTI Small Cap Fund Direct Growth\nUTI Flexi Cap Fund Direct Growth\nUTI Large & Mid Cap Fund Direct Growth\nUTI Multi Cap Fund Direct Growth\nUTI Healthcare Fund Direct Growth\nUTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund Direct Growth\nState Bank of India / Punjab National Bank / Bank of Baroda / Life Insurance Corporation\nVetri Subramaniam(Managing Director and Chief Executive Officer)\nTotal AUM (as of end of last quarter)\nUTI Tower, Plot C-1, GN Block,Banrda Kurla Complex, Bandra (East)  Mumbai 400051\n— Paperless sign up on web & app\nHow can you invest in UTI Mutual Funds?\nis easy when you have your own Groww account. You can easily look up the various active Funds offered. Registering for a Groww account is free and does not take too much time or documentation.\nThese are the steps you need to remember.\nStep 1: Login to your personal Groww account to access UTI\nStep 2: Upload all necessary identifying documents which are the usual KYC norms for any financial establishment. Identity proof documents may include your passport, ID issued by the Central or State Governments, Aadhaar, PAN, a valid Voter’s ID, a valid Driver’s license issued by any of the states or Union Territories, among others.\nStep 3: Upload any document which mentions your permanent address as a form of address proof.\nStep 4: Determine the total length of your intended investment.\nStep 5: Determine the level of acceptable risk- high, low or medium.\nStep 6: Select the appropriate UTI Mutual Fund according to your specifications.\nStep 7: If you wish to invest a one-time lump sum amount, click on “Invest One Time.” Else, if you plan to start an SIP or a Systematic Investment Plan, click on “Start SIP”.\nStep 8: The entire process takes about 1-2 working days, at the end of which the\nyou have purchased will reflect on your Groww account.\nNow let us jump and check about these top\nUTI Nifty 50 Index Fund Direct Growth\nThe fund's annualized returns for the past 3 years & 5 years has been around 9.12% & 9.47%. The UTI Nifty 50 Index Fund comes under the Equity category of UTI Mutual Funds.\nLump sum minimum amount for UTI Nifty 50 Index Fund is ₹1,000 and for SIP, it is ₹500.\nThe UTI Gold ETF FoF Direct-Growth comes under the Commodities category of UTI Mutual Funds.\nLump sum minimum amount for UTI Gold ETF FoF Direct-Growth is ₹5,000 and for SIP, it is ₹500.\nUTI Nifty 500 Value 50 Index Fund Direct Growth\nThe UTI Nifty 500 Value 50 Index Fund comes under the Equity category of UTI Mutual Funds.\nLump sum minimum amount for UTI Nifty 500 Value 50 Index Fund is ₹1,000 and for SIP, it is ₹500.\nUTI Silver ETF FoF Direct Growth\nThe UTI Silver ETF FoF Direct-Growth comes under the Commodities category of UTI Mutual Funds.\nLump sum minimum amount for UTI Silver ETF FoF Direct-Growth is ₹100 and for SIP, it is ₹100.\nUTI Nifty Next 50 Index Fund Direct Growth"
+}

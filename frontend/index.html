@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Groww Mutual Fund Assistant - Verified Facts Only</title>
+    <!-- Google Fonts: Inter & Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;650;700;800&display=swap" rel="stylesheet">
+    <!-- Local Stylesheet -->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <!-- Main Layout Wrapper -->
+    <div class="app-layout">
+
+        <!-- 1. LEFT SIDEBAR -->
+        <aside id="sidebar" class="sidebar">
+            <!-- Brand Logo & Header -->
+            <div class="sidebar-header">
+                <div class="sidebar-logo-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                    </svg>
+                </div>
+                <div>
+                    <div style="display: flex; align-items: center; gap: 6px;">
+                        <span class="sidebar-brand-name">Groww</span>
+                        <span class="secure-badge">Secure</span>
+                    </div>
+                    <p style="font-size: 10px; color: var(--groww-light); font-weight: 700; text-transform: uppercase; margin-top: 1px; letter-spacing: 0.05em;">MF FAQ Assistant</p>
+                </div>
+            </div>
+
+            <!-- New Chat CTA Button -->
+            <div class="sidebar-actions">
+                <button onclick="resetChat()" class="btn-new-chat">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                        <line x1="12" y1="7" x2="12" y2="13"></line>
+                        <line x1="9" y1="10" x2="15" y2="10"></line>
+                    </svg>
+                    New Chat
+                </button>
+            </div>
+
+            <!-- Sidebar scrollable navigation -->
+            <div class="sidebar-scrollable">
+                <!-- Suggested Topics Section -->
+                <div class="sidebar-section-title">Suggested Topics</div>
+                <nav class="sidebar-nav" style="margin-bottom: 20px;">
+                    <button onclick="submitQuery('What is the expense ratio of Parag Parikh Flexi Cap Fund?')" class="sidebar-nav-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="18" y1="20" x2="18" y2="10"></line>
+                            <line x1="12" y1="20" x2="12" y2="4"></line>
+                            <line x1="6" y1="20" x2="6" y2="14"></line>
+                        </svg>
+                        <span>Expense Ratio</span>
+                    </button>
+                    <button onclick="submitQuery('What is the exit load of SBI Small Cap Fund?')" class="sidebar-nav-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <polyline points="12 6 12 12 16 14"></polyline>
+                        </svg>
+                        <span>Exit Load Timing</span>
+                    </button>
+                    <button onclick="submitQuery('What is the minimum SIP amount for HDFC Index Fund?')" class="sidebar-nav-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+                            <line x1="12" y1="4" x2="12" y2="20"></line>
+                            <line x1="2" y1="12" x2="22" y2="12"></line>
+                        </svg>
+                        <span>Minimum SIP Amount</span>
+                    </button>
+                    <button onclick="submitQuery('Who is the fund manager of Nippon India Small Cap Fund?')" class="sidebar-nav-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                            <circle cx="12" cy="7" r="4"></circle>
+                        </svg>
+                        <span>Fund Manager Profile</span>
+                    </button>
+                    <button onclick="submitQuery('What is the benchmark index of ICICI Prudential Bluechip Fund?')" class="sidebar-nav-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                            <path d="M2 17l10 5 10-5"></path>
+                            <path d="M2 12l10 5 10-5"></path>
+                        </svg>
+                        <span>Benchmark Index</span>
+                    </button>
+                </nav>
+
+                <!-- Divider line -->
+                <div style="border-top: 1px solid var(--border-color); margin: 16px 0;"></div>
+
+                <!-- Supported AMCs Section -->
+                <div class="sidebar-section-title">Supported AMCs</div>
+                <nav class="sidebar-nav" id="supportedAmcsList">
+                    <!-- Populated dynamically via JS -->
+                </nav>
+            </div>
+
+            <!-- Sidebar bottom disclaimer -->
+            <div class="sidebar-footer">
+                <div class="disclaimer-card">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                    </svg>
+                    <div>
+                        <h4>Facts-Only Engine</h4>
+                        <p>Regulatory compliant chatbot. No financial advice or returns comparison.</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Sidebar backdrop for mobile -->
+        <div id="sidebarBackdrop" onclick="toggleSidebar(false)" class="sidebar-backdrop hidden"></div>
+
+        <!-- 2. MAIN CONTENT AREA -->
+        <div class="main-content">
+
+            <!-- Header -->
+            <header class="header">
+                <!-- Mobile Menu Button Toggle -->
+                <button onclick="toggleSidebar(true)" class="header-menu-toggle" aria-label="Open Sidebar">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+
+                <!-- Header Title -->
+                <div class="header-title">Groww Mutual Fund Assistant</div>
+
+                <!-- Verified sources badge -->
+                <div class="verified-badge">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="animate-draw-check">
+                        <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg>
+                    <span>Official Sources Only (AMC | AMFI | SEBI)</span>
+                </div>
+            </header>
+
+            <!-- Scroll Viewport Container -->
+            <main id="chatViewport" class="chat-viewport">
+                <div class="chat-viewport-inner">
+
+                    <!-- A. Empty State (Active before first user message) -->
+                    <div id="emptyState" class="empty-state">
+                        <!-- Welcome Greeting Card -->
+                        <div class="welcome-card animate-fade-up">
+                            <div class="welcome-status-tag">
+                                <div class="pulse-dot-wrapper">
+                                    <div class="pulse-dot-ping"></div>
+                                    <div class="pulse-dot-core"></div>
+                                </div>
+                                <span class="welcome-status-label">Active Compliance Shield</span>
+                            </div>
+                            <h1 class="welcome-title">Get Verified Mutual Fund Information</h1>
+                            <p class="welcome-subtitle">Ask factual questions sourced from official AMC factsheets, AMFI circulars, and SEBI regulatory filings.</p>
+                            
+                            <div class="welcome-info-strip">
+                                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <line x1="12" y1="16" x2="12" y2="12"></line>
+                                    <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                                </svg>
+                                <span><strong>Regulation Guidelines:</strong> This system does not support investment advice, buy/sell recommendations, return estimations, or comparison rankings of schemes.</span>
+                            </div>
+                        </div>
+
+                        <!-- Suggested Clickable Question Cards -->
+                        <div class="suggestions-section animate-fade-up" style="animation-delay: 100ms;">
+                            <h3 class="suggestions-title">Suggested Questions</h3>
+                            <div class="suggestions-grid" id="starterGrid">
+                                <button onclick="submitQuery('What is the exit load of Axis Small Cap Fund?')" class="suggestion-card">
+                                    <div class="suggestion-card-content">
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                            <circle cx="12" cy="12" r="10"></circle>
+                                            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                                            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                                        </svg>
+                                        <span class="suggestion-card-text">What is the exit load of Axis Small Cap Fund?</span>
+                                    </div>
+                                    <svg class="suggestion-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </button>
+                                
+                                <button onclick="submitQuery('What is the minimum SIP amount for HDFC Top 100 Fund?')" class="suggestion-card">
+                                    <div class="suggestion-card-content">
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                            <circle cx="12" cy="12" r="10"></circle>
+                                            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                                            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                                        </svg>
+                                        <span class="suggestion-card-text">What is the minimum SIP amount for HDFC Top 100 Fund?</span>
+                                    </div>
+                                    <svg class="suggestion-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </button>
+                                
+                                <button onclick="submitQuery('Who is the fund manager of Nippon India Small Cap Fund?')" class="suggestion-card">
+                                    <div class="suggestion-card-content">
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                            <circle cx="12" cy="12" r="10"></circle>
+                                            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                                            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                                        </svg>
+                                        <span class="suggestion-card-text">Who is the fund manager of Nippon India Small Cap Fund?</span>
+                                    </div>
+                                    <svg class="suggestion-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </button>
+                                
+                                <button onclick="submitQuery('What is the exit load of SBI Small Cap Fund?')" class="suggestion-card">
+                                    <div class="suggestion-card-content">
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                            <circle cx="12" cy="12" r="10"></circle>
+                                            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                                            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                                        </svg>
+                                        <span class="suggestion-card-text">What is the exit load of SBI Small Cap Fund?</span>
+                                    </div>
+                                    <svg class="suggestion-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- B. Chat Feed Log (active during active conversations) -->
+                    <div id="chatFeed" class="chat-feed hidden">
+                        <!-- Content appended dynamically by JavaScript -->
+                    </div>
+
+                </div>
+            </main>
+
+            <!-- 4. BOTTOM INPUT AREA -->
+            <div class="bottom-panel">
+                <!-- Compliance Disclaimer Strip -->
+                <div class="compliance-banner">
+                    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                        <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                    </svg>
+                    <span class="compliance-banner-text">Information provided is factual and sourced from official AMC, AMFI, and SEBI documents.</span>
+                </div>
+
+                <!-- Query Input Form container -->
+                <div class="input-form-wrapper">
+                    <form id="inputForm" onsubmit="handleFormSubmit(event)">
+                        <div class="input-bar">
+                            <!-- File attachments (disabled badge) -->
+                            <button type="button" disabled title="Attachments disabled" class="btn-input-icon disabled">
+                                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                                    <path d="M15.172 7l-6.586 6.586a2 2 0 102.828 2.828l6.414-6.586a4 4 0 00-5.656-5.656l-6.415 6.585a6 6 0 108.486 8.486L20.5 13"></path>
+                                </svg>
+                            </button>
+
+                            <!-- Keyboard Text Area -->
+                            <textarea id="queryInput" rows="1" placeholder="Ask a mutual fund question..." onkeydown="handleTextareaKeydown(event)" class="chat-textarea" required></textarea>
+
+                            <!-- Microphone Icon (passive indicator) -->
+                            <button type="button" title="Voice input not active" class="btn-input-icon hoverable">
+                                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                                    <path d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z"></path>
+                                </svg>
+                            </button>
+
+                            <!-- Submit Trigger -->
+                            <button type="submit" id="sendBtn" class="btn-send">
+                                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                </svg>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- Main Client Script -->
+    <script src="index.js"></script>
+</body>
+</html>
