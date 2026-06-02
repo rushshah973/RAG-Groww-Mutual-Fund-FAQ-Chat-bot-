@@ -12,10 +12,21 @@ import guardrails
 import llm_engine
 import scheduler
 
+from fastapi.middleware.cors import CORSMiddleware
+
 app = FastAPI(
     title="Mutual Fund FAQ Assistant",
     description="Facts-only mutual fund Q&A assistant with strict compliance guardrails.",
     version="1.0.0"
+)
+
+# Enable CORS for cross-origin requests (e.g. from Vercel)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # Request model
