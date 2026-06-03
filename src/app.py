@@ -120,11 +120,13 @@ def query_endpoint(req: QueryRequest):
         chunks = results.get("documents", [[]])[0]
         metadatas = results.get("metadatas", [[]])[0]
     except Exception as e:
+        import traceback
         print(f"Error querying ChromaDB: {e}")
+        traceback.print_exc()
         return {
             "status": "error",
             "type": "system",
-            "answer": "The system is temporarily unable to retrieve data. Please try again shortly.",
+            "answer": f"The system is temporarily unable to retrieve data. Error: {str(e)}",
             "source_url": None,
             "last_updated": None
         }
