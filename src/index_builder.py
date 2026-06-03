@@ -1,7 +1,7 @@
 import os
 import json
 import chromadb
-from chromadb.utils import embedding_functions
+from embeddings import GeminiEmbeddingFunction
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import config
 
@@ -19,8 +19,8 @@ def load_documents_and_build_index():
     print("Initializing ChromaDB persistent client...")
     client = chromadb.PersistentClient(path=db_dir)
     
-    print(f"Setting up SentenceTransformer embedding function (model: {config.EMBEDDING_MODEL_NAME})...")
-    emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=config.EMBEDDING_MODEL_NAME)
+    print("Setting up Gemini API-based embedding function...")
+    emb_fn = GeminiEmbeddingFunction(api_key=config.GEMINI_API_KEY)
     
     # Delete existing collection if we want a fresh index
     try:

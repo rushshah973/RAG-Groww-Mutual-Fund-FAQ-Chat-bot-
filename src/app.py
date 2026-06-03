@@ -37,8 +37,8 @@ class QueryRequest(BaseModel):
 db_dir = config.VECTOR_STORE_DIR
 client = chromadb.PersistentClient(path=db_dir)
 
-from chromadb.utils import embedding_functions
-emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=config.EMBEDDING_MODEL_NAME)
+from embeddings import GeminiEmbeddingFunction
+emb_fn = GeminiEmbeddingFunction(api_key=config.GEMINI_API_KEY)
 collection = client.get_or_create_collection(name=config.CHROMA_COLLECTION_NAME, embedding_function=emb_fn)
 
 @app.on_event("startup")

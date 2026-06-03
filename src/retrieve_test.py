@@ -1,6 +1,6 @@
 import os
 import chromadb
-from chromadb.utils import embedding_functions
+from embeddings import GeminiEmbeddingFunction
 import config
 
 def test_retrieval():
@@ -12,8 +12,8 @@ def test_retrieval():
     print("Initializing ChromaDB persistent client...")
     client = chromadb.PersistentClient(path=db_dir)
     
-    print(f"Loading SentenceTransformer embedding function (model: {config.EMBEDDING_MODEL_NAME})...")
-    emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=config.EMBEDDING_MODEL_NAME)
+    print("Loading Gemini API-based embedding function...")
+    emb_fn = GeminiEmbeddingFunction(api_key=config.GEMINI_API_KEY)
     
     try:
         collection = client.get_collection(name=config.CHROMA_COLLECTION_NAME, embedding_function=emb_fn)
