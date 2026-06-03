@@ -24,7 +24,7 @@ export default function Home() {
   }, [messages, isLoading])
 
   return (
-    <div className="flex h-screen overflow-hidden bg-slate-50/50">
+    <div className="flex h-screen overflow-hidden bg-slate-50 transition-colors duration-200">
       {/* 1. Left Sidebar (Fixed 280px on desktop) */}
       <Sidebar />
 

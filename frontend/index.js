@@ -419,5 +419,41 @@ function handleFormSubmit(event) {
     submitQuery(queryInput.value);
 }
 
-// Run metadata fetch on page load
-window.addEventListener('DOMContentLoaded', loadMetadata);
+// Theme Toggle Logic
+function initTheme() {
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    setTheme(savedTheme);
+}
+
+function setTheme(theme) {
+    const sunIcon = document.getElementById('sunIcon');
+    const moonIcon = document.getElementById('moonIcon');
+    
+    if (theme === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+        if (sunIcon && moonIcon) {
+            sunIcon.classList.add('hidden');
+            moonIcon.classList.remove('hidden');
+        }
+    } else {
+        document.documentElement.removeAttribute('data-theme');
+        localStorage.setItem('theme', 'dark');
+        if (sunIcon && moonIcon) {
+            sunIcon.classList.remove('hidden');
+            moonIcon.classList.add('hidden');
+        }
+    }
+}
+
+function toggleTheme() {
+    const currentTheme = localStorage.getItem('theme') || 'dark';
+    const nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    setTheme(nextTheme);
+}
+
+// Run metadata and theme init on page load
+window.addEventListener('DOMContentLoaded', () => {
+    initTheme();
+    loadMetadata();
+});

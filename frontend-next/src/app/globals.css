@@ -2,9 +2,36 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --bg-light: #f8fafc;
+  --bg-sidebar: #ffffff;
+  --bg-card: #ffffff;
+  --text-primary: #111827;
+  --text-secondary: #374151;
+  --text-muted: #6b7280;
+  --border-color: #f1f5f9;
+  --border-card: #e2e8f0;
+  --light-green-themed: #EAFBF5;
+}
+
+.dark {
+  --bg-light: #090d16;
+  --bg-sidebar: #0f172a;
+  --bg-card: #1e293b;
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --border-color: #1e293b;
+  --border-card: #334155;
+  --light-green-themed: rgba(0, 208, 156, 0.08);
+}
+
 @layer base {
   body {
-    @apply bg-slate-50/50 text-groww-dark font-sans antialiased;
+    background-color: var(--bg-light);
+    color: var(--text-primary);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    @apply font-sans antialiased;
     scroll-behavior: smooth;
   }
 }
@@ -20,18 +47,18 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #cbd5e1;
+  background: var(--border-card);
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #94a3b8;
+  background: var(--text-muted);
 }
 
 /* Glassmorphic frosted-border card styling classes */
 .glass-card {
-  background: rgba(255, 255, 255, 0.8);
+  background: var(--bg-card);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
-  border: 1px solid rgba(226, 232, 240, 0.8);
+  border: 1px solid var(--border-color);
 }
